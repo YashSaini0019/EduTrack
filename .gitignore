@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Model artifacts (regenerate via training scripts)
+ml/models/*.pkl
+ml/models/*.csv
+
+# Database
+*.db
+*.sqlite3
+
+# Node / React
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Generated reports
+data/skill_gap_report.csv

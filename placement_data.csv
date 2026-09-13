@@ -1,0 +1,601 @@
+student_id,department,cgpa,backlogs,internships,projects_completed,certifications,communication_score,aptitude_score,technical_score,attendance_percent,skills,placed,company,role_offered,package_lpa
+S1001,Electrical,7.75,0,1,1,0,6.6,88.7,73.8,78.2,Python;Excel;Machine Learning,1,Accenture,Business Analyst,8.18
+S1002,Information Technology,6.79,0,1,1,1,5.5,51.4,34.6,93.7,Java;C++;Excel;Networking;Problem Solving;React;DBMS;Python,1,TCS,Data Analyst,6.32
+S1003,Information Technology,9.6,0,1,1,0,7.4,56.0,77.1,84.3,Networking;React;Python;Problem Solving,1,Accenture,Cloud Engineer,9.2
+S1004,Information Technology,7.29,0,3,1,1,5.3,100.0,81.5,83.7,React;Machine Learning;Power BI;Python;SQL;DBMS,1,Amazon,QA Engineer,9.57
+S1005,Information Technology,7.2,0,0,3,1,6.4,48.0,62.4,86.7,Power BI;Communication;Java;Problem Solving,1,Microsoft,Data Analyst,7.91
+S1006,Electronics,6.54,1,1,1,0,6.4,48.4,38.5,88.5,React;Machine Learning;Power BI;Python;OS,1,Deloitte,Data Analyst,6.87
+S1007,Mechanical,6.37,0,2,2,2,6.7,59.0,58.9,70.6,Networking;Machine Learning;C++,1,Capgemini,Data Scientist,8.34
+S1008,Civil,7.1,0,2,1,0,7.3,52.9,51.0,89.3,Excel;Java;Python;C++,0,,,
+S1009,Information Technology,7.6,0,2,2,2,6.4,59.5,82.9,79.7,Java;AWS;DSA;Problem Solving;DBMS,1,Cognizant,Support Engineer,9.3
+S1010,Electrical,7.09,0,0,1,2,9.4,67.6,64.6,81.4,SQL;Communication;AWS;DSA;C++,0,,,
+S1011,Electronics,7.28,0,0,0,2,4.5,72.2,55.3,77.4,Problem Solving;C++;AWS;Java;React;SQL;Networking;DSA,1,Wipro,Support Engineer,6.41
+S1012,Mechanical,8.33,0,2,2,2,7.9,50.1,49.8,82.8,Problem Solving;C++;Excel;Networking;DSA,1,IBM,Data Scientist,8.99
+S1013,Computer Science,7.31,0,1,1,1,6.3,53.3,54.2,88.5,AWS;Python;Power BI;Communication,0,,,
+S1014,Mechanical,6.19,0,1,1,0,4.8,82.9,83.4,75.1,Java;DSA;React;Excel;Communication,0,,,
+S1015,Information Technology,7.53,0,0,1,2,7.3,69.4,47.1,96.9,OS;DBMS;C++;Problem Solving;SQL;Machine Learning;Power BI;DSA,1,TechMahindra,QA Engineer,7.3
+S1016,Electrical,7.96,0,0,3,3,5.5,61.3,46.4,74.9,DBMS;React;Problem Solving;Communication;DSA;SQL;Networking,0,,,
+S1017,Mechanical,6.57,0,2,2,2,4.8,64.5,42.7,89.8,Power BI;Python;Java,1,Wipro,System Engineer,6.92
+S1018,Electrical,7.73,2,3,4,1,6.6,76.1,51.9,88.2,React;Java;DBMS;Power BI;Problem Solving;OS,1,Deloitte,QA Engineer,9.48
+S1019,Civil,8.07,0,1,4,2,6.9,47.9,66.4,86.5,C++;Excel;Java,1,IBM,QA Engineer,8.82
+S1020,Electrical,8.54,0,2,3,3,7.6,82.0,77.2,87.2,Java;Machine Learning;DBMS;SQL;OS,1,TCS,QA Engineer,9.89
+S1021,Civil,5.95,0,1,0,1,7.8,40.8,51.5,90.7,Networking;Java;C++;Machine Learning,0,,,
+S1022,Electrical,8.7,0,1,0,0,7.0,100.0,93.2,92.9,React;DSA;SQL;Communication;Power BI;Networking;Problem Solving,1,TCS,Data Scientist,9.29
+S1023,Mechanical,5.48,0,0,2,0,7.1,72.6,75.6,72.4,Java;Communication;Power BI,1,Cognizant,Business Analyst,5.34
+S1024,Computer Science,7.59,0,1,1,3,4.5,42.2,51.3,92.1,Problem Solving;React;Java;Power BI,1,TechMahindra,Support Engineer,7.58
+S1025,Computer Science,7.09,0,1,2,0,9.4,35.1,36.6,94.3,Power BI;SQL;AWS;C++;OS;Networking;Problem Solving,1,Cognizant,Cloud Engineer,7.61
+S1026,Information Technology,8.6,0,2,3,0,4.8,68.0,49.2,82.6,Power BI;Excel;AWS;DSA;Machine Learning;DBMS;Communication,0,,,
+S1027,Mechanical,6.95,0,1,2,1,6.6,73.8,65.1,77.0,OS;Java;DSA;Power BI;AWS;Communication;Python,1,Capgemini,Business Analyst,8.04
+S1028,Civil,6.88,0,2,1,0,8.1,86.8,66.5,86.7,Python;Java;Excel;C++,1,TCS,Business Analyst,7.02
+S1029,Computer Science,6.8,0,2,4,1,5.9,82.4,88.0,78.5,AWS;Communication;Java,1,Deloitte,Business Analyst,9.81
+S1030,Electronics,7.32,0,2,2,0,7.3,63.0,61.7,86.8,OS;DSA;Networking;SQL;React;C++;Problem Solving;AWS,1,Google,Cloud Engineer,7.05
+S1031,Information Technology,6.9,0,1,3,2,5.8,64.9,22.4,96.2,Java;C++;DBMS,0,,,
+S1032,Electronics,6.56,0,2,2,0,6.4,68.7,50.9,78.2,DBMS;OS;Excel;Python;C++;Java,1,TCS,Cloud Engineer,7.36
+S1033,Electrical,8.34,2,3,3,1,6.1,69.7,86.6,88.9,Power BI;AWS;Java;DSA;Excel,1,Accenture,Support Engineer,10.59
+S1034,Information Technology,7.03,0,0,1,0,6.8,84.1,73.9,85.9,SQL;Machine Learning;OS;DSA;Java;Power BI,1,Deloitte,Data Analyst,6.66
+S1035,Computer Science,7.92,0,3,0,1,6.2,66.0,77.7,85.8,Networking;AWS;Python;Java;DSA;SQL;DBMS;OS,1,Google,Business Analyst,9.26
+S1036,Mechanical,8.61,0,1,2,1,8.1,63.3,77.6,70.4,SQL;DBMS;Python,1,Microsoft,QA Engineer,9.72
+S1037,Mechanical,5.39,0,0,4,3,6.1,73.6,77.5,87.9,DBMS;Excel;AWS;Networking;C++,1,TechMahindra,Support Engineer,7.74
+S1038,Information Technology,8.36,3,0,2,3,6.1,28.2,43.8,81.1,Machine Learning;DSA;Python;React,0,,,
+S1039,Electrical,7.25,1,3,4,4,5.3,62.9,62.2,86.1,Python;Excel;Communication;Problem Solving;AWS;React;OS,1,Deloitte,System Engineer,10.91
+S1040,Computer Science,8.69,0,0,3,2,7.0,82.3,78.5,83.3,Java;AWS;SQL;Problem Solving;React;Excel;DSA,1,Microsoft,Data Analyst,9.68
+S1041,Civil,8.53,0,0,1,0,8.3,38.6,38.7,65.7,React;Problem Solving;Python;AWS,0,,,
+S1042,Computer Science,7.48,0,1,2,2,3.8,64.8,74.3,79.7,C++;React;AWS;Networking;Communication;Machine Learning,0,,,
+S1043,Information Technology,5.8,0,0,2,0,7.3,50.9,50.8,73.5,Excel;Communication;DSA;Machine Learning;DBMS;SQL;Problem Solving;OS,1,Amazon,Data Analyst,6.57
+S1044,Computer Science,7.01,0,0,0,0,5.7,56.6,34.2,80.5,React;Problem Solving;Java;Power BI;Networking;DSA,0,,,
+S1045,Civil,9.07,0,2,2,0,6.8,63.3,56.0,86.9,SQL;Communication;Java;DSA;AWS,1,Cognizant,System Engineer,10.04
+S1046,Mechanical,6.81,0,1,2,2,5.1,77.8,42.2,82.2,Excel;Machine Learning;React;C++;Networking;Python;Problem Solving,1,Cognizant,Data Analyst,7.75
+S1047,Information Technology,7.18,0,0,1,1,5.5,49.1,48.2,75.8,Java;Problem Solving;Excel;Networking;SQL,1,Cognizant,QA Engineer,6.27
+S1048,Civil,8.82,0,1,0,2,8.0,49.4,56.6,75.0,Excel;Communication;DSA;C++,1,IBM,QA Engineer,7.84
+S1049,Civil,5.58,3,1,1,0,8.1,58.1,48.7,78.9,Machine Learning;AWS;Python;Java;C++;DBMS,0,,,
+S1050,Electronics,6.93,0,2,0,1,7.3,63.7,64.3,84.2,Python;Communication;Power BI,1,Wipro,QA Engineer,7.77
+S1051,Information Technology,6.42,1,1,2,0,5.9,73.6,46.3,67.6,OS;Networking;Excel;DBMS;AWS;Python;Java;C++,0,,,
+S1052,Electrical,6.89,0,0,2,0,6.4,100.0,31.0,80.8,Networking;Python;Communication;React,1,Deloitte,System Engineer,5.68
+S1053,Mechanical,8.21,0,1,3,1,6.0,38.4,41.4,83.4,Python;Machine Learning;Communication;Problem Solving,1,Amazon,Business Analyst,8.52
+S1054,Electrical,7.38,0,2,1,1,6.6,60.2,54.3,86.3,C++;Java;Communication;Networking,1,Microsoft,System Engineer,8.6
+S1055,Information Technology,8.08,0,2,2,1,6.3,80.8,44.8,69.4,Power BI;Problem Solving;SQL;DBMS,1,TCS,System Engineer,8.73
+S1056,Electrical,8.05,1,1,1,2,3.7,70.1,52.5,87.1,Power BI;DBMS;Problem Solving;C++;DSA,0,,,
+S1057,Electronics,9.34,0,0,1,0,8.9,71.0,53.7,88.6,Power BI;Excel;Java;DBMS,1,TCS,Support Engineer,8.12
+S1058,Information Technology,6.42,0,0,1,3,4.5,69.2,40.9,77.9,AWS;OS;Communication;Machine Learning,0,,,
+S1059,Information Technology,5.7,0,3,1,1,8.9,62.0,60.8,96.3,Python;C++;DSA;DBMS,0,,,
+S1060,Electronics,7.83,0,0,2,1,7.1,66.5,58.4,88.2,AWS;Java;Power BI;Machine Learning;Communication,1,IBM,Cloud Engineer,7.6
+S1061,Electrical,8.28,0,1,0,1,8.0,30.2,55.9,87.0,Communication;Python;Java;Machine Learning;SQL;React;Excel,1,TCS,Data Analyst,7.72
+S1062,Civil,8.8,0,1,1,0,3.0,64.2,55.8,87.6,Communication;Excel;Power BI;Problem Solving;DBMS;React,1,Deloitte,Data Analyst,7.83
+S1063,Mechanical,7.77,2,0,2,0,6.8,67.4,47.8,83.2,DSA;Machine Learning;Python;Excel;DBMS;Power BI;Networking,1,Deloitte,Business Analyst,7.17
+S1064,Electronics,7.17,0,0,0,1,8.7,25.1,22.6,72.1,Java;C++;Communication;React;Power BI;Problem Solving,0,,,
+S1065,Electrical,6.99,1,3,2,0,6.3,48.3,91.5,89.5,Networking;Machine Learning;C++;DBMS;Communication,1,Microsoft,QA Engineer,9.78
+S1066,Civil,6.67,0,0,1,1,5.8,46.7,72.8,80.1,DSA;DBMS;C++;AWS,0,,,
+S1067,Electrical,6.96,1,2,2,1,7.6,60.4,65.9,72.0,Problem Solving;SQL;React;Power BI;Machine Learning;DBMS;Networking;Python,1,Cognizant,QA Engineer,7.39
+S1068,Information Technology,6.57,0,1,1,1,3.9,90.4,63.8,81.2,Power BI;React;AWS;C++;Communication;OS,1,Google,Support Engineer,7.42
+S1069,Electrical,7.27,0,1,0,0,9.8,75.1,48.8,78.7,Networking;OS;Power BI;Excel,0,,,
+S1070,Information Technology,7.32,0,0,0,1,7.3,40.6,69.9,98.0,Java;Machine Learning;Networking;C++;Excel;React;Communication;Problem Solving,0,,,
+S1071,Information Technology,7.95,0,0,1,3,5.4,72.7,57.2,88.5,Machine Learning;DSA;Power BI;AWS;SQL;Python;React;Excel,1,Google,Data Analyst,7.47
+S1072,Mechanical,7.32,0,2,0,1,4.7,53.0,84.1,74.9,Problem Solving;C++;React;DSA;DBMS;OS,1,Microsoft,Business Analyst,7.65
+S1073,Information Technology,9.67,0,3,3,0,6.0,66.8,100.0,81.2,Excel;Python;Power BI;Java;DBMS;DSA;SQL;OS,1,TCS,Business Analyst,11.69
+S1074,Computer Science,7.52,0,2,2,1,7.8,56.6,71.4,89.8,SQL;Power BI;OS;C++;Networking;Excel,1,Capgemini,Data Scientist,7.69
+S1075,Mechanical,8.33,0,3,1,2,8.3,66.8,74.7,86.9,AWS;Excel;Networking;DBMS;Power BI;OS;SQL,1,TechMahindra,Support Engineer,10.59
+S1076,Mechanical,7.71,0,1,1,2,7.4,68.1,64.9,71.8,Power BI;DSA;C++;Machine Learning;Networking,0,,,
+S1077,Mechanical,7.7,2,3,2,2,6.5,43.9,69.0,73.7,DSA;Machine Learning;OS;Java;AWS;Problem Solving;C++;Communication,0,,,
+S1078,Electronics,8.45,0,0,2,1,8.0,69.2,35.7,86.7,Java;SQL;AWS;DSA;DBMS;Power BI;Excel,1,Infosys,Cloud Engineer,7.72
+S1079,Mechanical,8.26,1,2,4,1,6.1,27.7,76.6,84.5,Networking;OS;DBMS;Python;DSA,0,,,
+S1080,Mechanical,6.9,0,2,1,0,8.8,44.8,43.5,74.0,Problem Solving;Power BI;React;Excel;Python;AWS,1,Microsoft,Support Engineer,6.62
+S1081,Computer Science,5.56,0,0,4,1,5.1,79.8,56.1,81.6,Machine Learning;Power BI;DBMS;AWS;Networking,1,TechMahindra,Business Analyst,6.48
+S1082,Mechanical,8.35,0,0,1,0,9.1,73.3,48.8,78.0,Machine Learning;DBMS;OS;Python,0,,,
+S1083,Mechanical,7.15,1,3,4,0,8.8,56.4,45.0,85.8,C++;Problem Solving;Power BI;DBMS;SQL,1,Google,System Engineer,8.41
+S1084,Civil,6.67,0,1,2,0,6.3,73.8,69.8,90.7,Python;DBMS;React;Power BI;C++;Problem Solving;Java,1,IBM,Cloud Engineer,6.99
+S1085,Information Technology,6.58,0,0,3,1,7.8,49.1,0.0,75.0,SQL;Python;Machine Learning;DBMS;Communication;DSA,0,,,
+S1086,Mechanical,6.86,0,1,1,5,8.3,72.5,75.4,90.1,Communication;Power BI;DBMS;Machine Learning;AWS,1,Cognizant,Data Analyst,9.25
+S1087,Mechanical,7.15,0,2,1,3,7.0,77.3,33.2,82.2,Excel;Networking;Python,1,Amazon,Business Analyst,7.9
+S1088,Electrical,7.88,0,0,3,2,9.8,74.1,63.4,78.4,Power BI;C++;Python,1,TCS,Business Analyst,8.38
+S1089,Information Technology,6.97,0,0,2,0,7.0,70.5,50.5,81.0,React;SQL;DSA,0,,,
+S1090,Information Technology,5.47,0,1,1,2,7.4,57.5,41.6,87.7,C++;Java;React;DSA;OS;Machine Learning,0,,,
+S1091,Electronics,8.31,0,3,1,2,8.6,46.6,89.9,89.2,React;Problem Solving;Excel;Power BI,1,Infosys,System Engineer,10.25
+S1092,Electronics,6.17,1,1,4,0,8.8,70.1,68.2,86.6,React;Python;Machine Learning,1,Capgemini,Cloud Engineer,7.49
+S1093,Mechanical,6.45,0,3,2,2,7.3,70.6,46.4,71.1,DSA;Java;React;Excel;C++;Problem Solving;AWS;Machine Learning,1,IBM,Data Analyst,7.94
+S1094,Civil,7.42,0,2,1,1,5.8,62.4,47.6,100.0,Communication;Networking;DBMS,1,IBM,Data Scientist,7.58
+S1095,Computer Science,8.01,0,0,2,0,7.4,64.9,39.1,94.0,C++;Communication;Python;DBMS;OS;Java;Excel,1,Amazon,Support Engineer,7.62
+S1096,Electrical,6.51,0,0,0,1,6.9,92.0,71.5,77.4,DBMS;SQL;Excel;Networking,1,IBM,QA Engineer,6.38
+S1097,Civil,7.55,0,0,4,0,5.7,92.2,66.4,85.1,Power BI;OS;AWS;DBMS;React;Machine Learning;Communication,1,Accenture,Data Analyst,8.23
+S1098,Electronics,8.24,0,2,2,2,6.1,91.0,63.6,76.8,DSA;Power BI;OS;React;Excel;DBMS,1,Amazon,Software Engineer,9.2
+S1099,Mechanical,6.37,0,1,2,2,6.1,48.1,70.2,78.0,SQL;OS;DSA;Communication;Machine Learning,1,Amazon,QA Engineer,7.46
+S1100,Civil,7.07,1,2,3,1,4.5,41.6,96.0,81.2,Problem Solving;Machine Learning;Networking;Python;Power BI;DSA;Java;React,0,,,
+S1101,Electrical,8.9,1,1,1,2,8.9,85.7,48.7,85.2,OS;Networking;Power BI;DSA;Problem Solving;C++,1,Google,Software Engineer,9.08
+S1102,Computer Science,7.04,0,0,4,1,8.4,38.9,53.5,73.0,DSA;DBMS;Excel;Problem Solving;Machine Learning,0,,,
+S1103,Electrical,8.03,0,2,1,2,5.1,33.6,64.6,79.9,Communication;OS;Networking;Power BI;Problem Solving;DBMS;Excel,1,Amazon,Data Scientist,9.76
+S1104,Electrical,8.65,0,0,0,2,8.0,70.7,67.7,90.2,Machine Learning;Problem Solving;AWS;DSA;Java;Excel,1,Amazon,Data Analyst,8.28
+S1105,Electrical,7.01,0,1,4,0,6.0,63.0,41.4,80.5,Power BI;Excel;SQL;DSA;AWS;OS;Machine Learning,1,TechMahindra,QA Engineer,7.71
+S1106,Computer Science,8.12,0,1,2,1,7.3,50.9,71.6,84.2,Machine Learning;DSA;Communication;SQL,1,Cognizant,Software Engineer,8.3
+S1107,Electrical,7.13,0,2,4,2,7.1,68.0,78.9,90.8,SQL;Machine Learning;Python;Power BI;Networking;AWS;Problem Solving,1,IBM,Support Engineer,10.11
+S1108,Computer Science,6.32,0,0,3,1,9.1,64.0,65.9,84.6,React;Machine Learning;OS,1,Google,Support Engineer,6.91
+S1109,Electronics,7.81,0,0,3,3,7.3,62.7,62.3,80.6,Python;Machine Learning;OS;Java,1,Infosys,Cloud Engineer,8.43
+S1110,Mechanical,6.15,0,1,2,0,4.5,45.6,49.2,83.4,React;C++;AWS,1,TCS,System Engineer,5.8
+S1111,Information Technology,6.68,0,2,2,1,10.0,47.6,32.4,93.6,Machine Learning;Java;DSA;AWS;Networking;DBMS;Power BI,1,Deloitte,Cloud Engineer,6.12
+S1112,Mechanical,8.55,1,2,4,0,7.6,76.4,65.1,82.8,Machine Learning;AWS;React;DBMS;Problem Solving;Power BI,1,Capgemini,Software Engineer,9.86
+S1113,Civil,7.13,0,1,1,0,7.6,79.6,48.9,66.7,Java;Power BI;DSA;C++;AWS;Machine Learning;Problem Solving;SQL,1,Accenture,System Engineer,7.03
+S1114,Civil,6.41,0,0,1,1,8.1,92.7,64.0,83.3,SQL;Python;DBMS,1,Google,Support Engineer,5.54
+S1115,Electronics,7.28,1,1,0,3,7.6,60.7,67.2,86.0,DSA;Machine Learning;Excel,1,Cognizant,Support Engineer,6.97
+S1116,Computer Science,6.18,0,0,3,1,5.8,68.6,45.9,99.8,DSA;Machine Learning;Power BI;C++;React;Problem Solving;DBMS;Java,1,Deloitte,Business Analyst,5.39
+S1117,Electrical,7.87,0,0,0,2,7.4,56.6,35.3,81.3,Problem Solving;Machine Learning;SQL;Java,0,,,
+S1118,Computer Science,9.62,0,1,2,2,7.2,57.0,30.8,86.5,Power BI;Machine Learning;React;Excel,1,Capgemini,QA Engineer,9.12
+S1119,Mechanical,6.39,0,1,0,1,5.9,75.5,78.6,82.9,OS;Excel;Machine Learning,1,TechMahindra,Cloud Engineer,5.48
+S1120,Electronics,7.64,0,1,4,2,5.8,64.2,70.0,82.6,Networking;OS;AWS;Java;React;Python;DBMS,1,TechMahindra,Data Scientist,8.48
+S1121,Civil,7.87,0,0,2,1,8.3,74.1,40.3,79.5,Python;Java;DSA;C++;React,0,,,
+S1122,Civil,7.37,1,1,2,0,7.9,57.1,66.5,86.0,Power BI;C++;Machine Learning,0,,,
+S1123,Civil,7.82,0,0,1,1,6.9,75.6,44.7,69.2,Power BI;Problem Solving;SQL,1,Google,Support Engineer,7.22
+S1124,Electronics,9.54,1,1,4,1,6.2,82.5,70.2,86.8,React;DBMS;C++;OS,1,Infosys,Support Engineer,10.44
+S1125,Electronics,6.62,0,1,1,3,10.0,60.5,48.3,86.2,Communication;Problem Solving;C++;Java;SQL;AWS,1,Microsoft,Support Engineer,6.43
+S1126,Electronics,7.03,0,0,0,0,6.9,72.9,58.7,85.9,DBMS;AWS;Power BI;Networking;Python;OS;Java;Communication,1,Cognizant,Data Scientist,4.27
+S1127,Computer Science,7.56,0,1,1,2,5.8,64.1,49.9,78.7,AWS;Networking;Python;C++;Problem Solving;OS,1,Microsoft,Software Engineer,7.33
+S1128,Information Technology,7.03,0,0,2,3,7.5,99.3,41.2,80.3,Communication;React;Power BI;OS;C++;Excel;Python,0,,,
+S1129,Information Technology,6.07,0,1,3,2,6.5,56.4,13.4,77.6,Networking;SQL;Machine Learning;OS;Excel,1,Infosys,Software Engineer,6.47
+S1130,Electrical,6.41,0,1,3,0,6.8,47.1,59.3,91.3,Power BI;DSA;Excel;SQL;Machine Learning;Networking;Python,1,Deloitte,Cloud Engineer,6.44
+S1131,Computer Science,6.07,0,2,4,2,4.5,55.9,92.9,87.4,AWS;Java;OS;Problem Solving,1,IBM,System Engineer,8.43
+S1132,Mechanical,7.22,0,1,4,2,8.1,47.1,61.1,82.7,Machine Learning;Networking;Excel;Problem Solving;DBMS;OS;React;DSA,1,Google,System Engineer,9.55
+S1133,Mechanical,6.97,0,0,4,1,7.1,50.3,36.1,87.4,Problem Solving;React;Networking;Excel,1,Wipro,Data Analyst,7.64
+S1134,Electronics,8.37,0,0,0,1,7.8,74.1,83.6,72.0,Communication;Power BI;Networking;Machine Learning;Python;Excel,1,TechMahindra,QA Engineer,7.65
+S1135,Civil,8.5,0,1,0,2,7.6,65.9,64.8,94.2,C++;OS;SQL;AWS;Networking;Excel;Communication,1,Amazon,Cloud Engineer,8.85
+S1136,Mechanical,6.53,0,3,1,1,7.3,95.8,40.1,80.2,AWS;DSA;Excel;Problem Solving;React,1,Microsoft,Business Analyst,7.36
+S1137,Mechanical,6.09,1,2,3,1,8.1,61.3,88.9,85.9,Communication;Excel;OS,1,TechMahindra,Cloud Engineer,8.55
+S1138,Mechanical,6.37,0,3,4,0,7.5,63.6,58.5,88.5,Power BI;AWS;C++;SQL;OS;Python;Excel;Communication,1,Infosys,Support Engineer,8.75
+S1139,Computer Science,8.41,0,1,2,1,6.8,92.2,71.2,84.6,Problem Solving;OS;Python;Excel;SQL;DBMS;C++,1,Infosys,Support Engineer,9.48
+S1140,Electronics,7.18,0,0,3,1,5.1,84.3,52.4,84.1,React;Excel;DBMS;C++;Java,1,Amazon,Cloud Engineer,6.32
+S1141,Electronics,6.22,0,2,2,0,7.4,53.2,71.7,81.0,Excel;Power BI;OS;Networking;Python;React;Java;DSA,1,IBM,QA Engineer,7.58
+S1142,Information Technology,6.89,1,3,2,2,5.7,39.5,86.2,95.4,Java;DBMS;Problem Solving;C++;Power BI;OS;SQL;Machine Learning,1,TCS,Software Engineer,8.87
+S1143,Electronics,5.93,0,0,2,2,8.6,88.1,96.1,98.5,Machine Learning;Communication;AWS,1,Microsoft,System Engineer,7.58
+S1144,Information Technology,6.74,1,1,0,0,8.0,81.7,48.3,89.6,DBMS;React;C++;SQL;Excel;Power BI;Java,1,Capgemini,Cloud Engineer,6.54
+S1145,Civil,6.27,0,1,0,0,6.5,87.7,71.4,73.8,DSA;OS;React;SQL;Problem Solving;AWS;Machine Learning;Power BI,1,Cognizant,Software Engineer,7.28
+S1146,Mechanical,6.99,0,2,2,2,7.2,43.8,38.9,77.8,C++;Networking;SQL;Java;OS,1,Amazon,QA Engineer,8.33
+S1147,Electrical,7.59,0,1,4,1,6.6,62.1,85.0,73.1,Excel;Machine Learning;OS;AWS;DSA;DBMS,1,Google,Data Analyst,9.05
+S1148,Information Technology,7.28,0,2,3,0,9.3,50.0,65.4,88.1,React;Communication;Problem Solving;Machine Learning;Excel;Python,0,,,
+S1149,Electrical,8.4,0,0,1,0,7.3,61.7,44.9,74.6,Machine Learning;Python;React;C++;AWS;Power BI,0,,,
+S1150,Electrical,8.64,0,1,0,0,6.4,28.6,75.9,87.9,AWS;Machine Learning;Power BI;DSA;React;Communication,1,Accenture,Business Analyst,8.23
+S1151,Civil,7.52,0,3,0,1,6.9,76.9,37.4,84.3,C++;Power BI;Excel;Problem Solving;AWS,1,Wipro,Data Analyst,7.25
+S1152,Electrical,7.37,0,0,1,0,7.3,74.5,51.9,90.1,Python;Machine Learning;Power BI;OS;Problem Solving;React;Communication;SQL,1,Infosys,QA Engineer,8.07
+S1153,Electronics,7.69,0,2,2,0,7.8,48.9,7.4,85.5,DBMS;SQL;DSA;AWS;Networking;Communication;C++;Machine Learning,1,Wipro,QA Engineer,7.91
+S1154,Mechanical,8.89,0,0,2,2,5.4,55.6,70.8,76.3,Excel;AWS;Communication;Java;OS,1,Infosys,System Engineer,8.71
+S1155,Information Technology,7.41,0,2,4,1,9.1,69.8,59.4,81.5,Excel;C++;DBMS;Networking;Communication;Java;Power BI;Python,1,Cognizant,Data Analyst,8.57
+S1156,Mechanical,7.14,0,1,3,1,10.0,37.5,63.6,84.9,C++;Excel;Problem Solving;Machine Learning;React,1,Microsoft,Data Scientist,8.77
+S1157,Computer Science,6.9,1,1,1,2,8.6,60.0,52.7,74.4,DSA;OS;Python;React;Networking;Communication;Problem Solving;Java,1,IBM,Support Engineer,7.42
+S1158,Electrical,6.64,1,2,2,3,7.1,49.1,67.7,80.5,C++;DBMS;Java;SQL;Python,1,TCS,QA Engineer,8.97
+S1159,Mechanical,7.33,0,2,4,0,6.4,52.9,70.7,84.2,Java;DSA;Networking,1,Wipro,Cloud Engineer,9.09
+S1160,Mechanical,6.39,0,2,2,1,8.4,57.5,77.9,86.4,C++;Excel;AWS;Networking;DBMS,1,Capgemini,System Engineer,7.36
+S1161,Mechanical,7.08,0,0,2,3,6.3,63.5,82.1,82.3,Java;AWS;OS;React;DBMS;Machine Learning;Python;Communication,1,Accenture,Support Engineer,7.95
+S1162,Mechanical,6.24,0,0,1,1,8.5,57.4,74.0,93.0,AWS;Communication;Java;C++,1,Amazon,Data Scientist,6.75
+S1163,Computer Science,6.4,0,0,3,5,5.9,69.1,71.7,74.3,Machine Learning;DSA;Java;OS;Power BI;AWS,1,IBM,Software Engineer,7.93
+S1164,Computer Science,8.3,0,1,4,0,6.6,57.0,58.4,84.7,DSA;SQL;Power BI;React;Problem Solving,1,Infosys,Business Analyst,9.05
+S1165,Civil,6.91,1,2,3,0,7.9,78.3,50.5,87.3,AWS;Problem Solving;DSA;Communication,1,Wipro,Software Engineer,7.6
+S1166,Electronics,7.63,0,0,0,1,9.4,40.9,74.0,90.4,SQL;Networking;Machine Learning;Problem Solving,1,Infosys,Software Engineer,6.58
+S1167,Information Technology,8.16,1,0,0,0,9.2,66.1,80.9,74.6,Communication;Power BI;AWS,1,Accenture,Data Scientist,7.61
+S1168,Computer Science,7.54,1,2,2,1,7.7,55.2,27.0,86.1,Machine Learning;Python;SQL;Excel,0,,,
+S1169,Mechanical,8.54,0,1,2,2,5.4,65.5,55.4,62.8,Java;Excel;Problem Solving;OS;AWS;Communication;Networking,1,Capgemini,Data Analyst,9.07
+S1170,Mechanical,7.8,0,1,2,0,5.8,45.2,49.0,81.7,DSA;React;Python;Excel;C++;Networking;Machine Learning,1,Google,Software Engineer,7.57
+S1171,Computer Science,5.44,0,1,1,0,6.5,65.1,79.5,77.4,AWS;DBMS;Problem Solving;C++;Java;OS,1,TechMahindra,Support Engineer,4.76
+S1172,Computer Science,7.4,1,1,0,1,6.9,32.6,59.7,90.6,Communication;React;SQL,1,Infosys,System Engineer,6.78
+S1173,Electronics,5.94,0,1,4,2,6.1,67.2,89.0,89.2,C++;React;Networking;Excel;Communication;DBMS;Power BI,1,Cognizant,Support Engineer,7.43
+S1174,Civil,5.31,0,0,2,1,6.5,55.2,63.0,85.5,DBMS;Java;Power BI;Excel;AWS;Networking;DSA,1,Microsoft,Support Engineer,6.09
+S1175,Information Technology,5.74,0,1,4,3,5.2,66.6,59.4,80.3,Communication;AWS;OS;DBMS;Excel;Java,1,Amazon,Cloud Engineer,9.01
+S1176,Electronics,6.86,0,0,2,1,8.2,71.4,48.4,96.2,Machine Learning;Communication;SQL;C++;OS;Java;React;Networking,1,Infosys,Cloud Engineer,5.93
+S1177,Computer Science,6.31,0,1,3,3,7.9,38.8,83.5,68.7,Excel;Communication;Power BI;SQL;Networking;Python;C++;AWS,1,IBM,Data Analyst,7.51
+S1178,Mechanical,8.63,0,1,1,2,6.9,62.6,34.6,91.7,AWS;C++;Power BI;DBMS;Python,1,Cognizant,QA Engineer,7.35
+S1179,Electronics,6.57,0,1,2,0,6.8,69.2,45.4,85.4,React;Networking;DSA,1,Wipro,Support Engineer,6.52
+S1180,Information Technology,6.87,2,1,0,0,5.3,59.6,27.5,79.2,Communication;AWS;Networking,0,,,
+S1181,Electronics,7.93,0,2,4,0,6.3,63.4,68.1,69.4,Power BI;Machine Learning;React,1,Accenture,Cloud Engineer,8.72
+S1182,Civil,7.46,0,2,3,1,5.1,53.2,48.8,80.7,React;C++;AWS;Networking;Python;Problem Solving;Machine Learning,1,TCS,System Engineer,8.26
+S1183,Electronics,7.36,0,1,1,1,7.5,27.0,54.9,90.8,Power BI;Machine Learning;Communication;Problem Solving;Python;SQL;React;DBMS,1,Infosys,System Engineer,8.55
+S1184,Electrical,6.9,0,1,2,0,5.0,69.0,91.8,79.1,Python;Java;Excel;Networking;DSA;DBMS;React;OS,1,Amazon,System Engineer,7.91
+S1185,Electronics,7.86,2,0,2,3,6.3,43.3,44.8,87.1,Excel;Communication;Power BI;React;Problem Solving,0,,,
+S1186,Computer Science,6.65,0,1,2,3,7.4,87.4,81.0,80.4,SQL;Problem Solving;Power BI,1,Capgemini,Software Engineer,8.41
+S1187,Electrical,5.0,0,3,0,2,5.7,71.1,42.5,71.0,Machine Learning;OS;C++,0,,,
+S1188,Mechanical,6.5,2,0,4,2,5.8,72.7,72.9,85.4,React;OS;DBMS;Machine Learning;DSA;Networking,0,,,
+S1189,Computer Science,6.77,0,2,3,1,5.7,64.6,30.5,68.9,DBMS;Java;Machine Learning;C++;Excel,1,Capgemini,Support Engineer,7.08
+S1190,Civil,7.02,1,3,0,2,6.8,52.7,71.9,89.5,Machine Learning;Python;DSA;DBMS;React;AWS;C++;Power BI,1,Cognizant,Business Analyst,8.46
+S1191,Information Technology,6.66,0,0,1,3,6.4,34.9,71.4,72.1,Machine Learning;Communication;Java;Python;OS,0,,,
+S1192,Electrical,5.81,0,0,4,1,8.5,92.0,82.3,83.7,SQL;Problem Solving;DBMS;Networking;DSA;Excel,1,Deloitte,Data Scientist,6.53
+S1193,Computer Science,8.06,1,1,2,0,7.6,53.9,76.0,67.3,AWS;Excel;Python;DBMS;Power BI;OS,1,Infosys,Data Scientist,8.46
+S1194,Civil,6.83,0,0,0,1,7.0,79.3,41.4,75.1,React;DBMS;Excel;C++;AWS;Machine Learning,1,Infosys,Cloud Engineer,6.4
+S1195,Computer Science,6.09,1,0,3,3,5.7,64.0,95.7,94.6,SQL;Power BI;React;OS;Communication,1,Infosys,Cloud Engineer,6.75
+S1196,Computer Science,8.17,2,2,4,1,8.5,68.0,54.9,78.5,DBMS;React;Problem Solving;Networking,1,Infosys,Cloud Engineer,9.68
+S1197,Electronics,7.3,0,1,1,1,7.6,83.5,54.2,78.8,Communication;DSA;Problem Solving;SQL;Java;Networking;C++;AWS,1,Amazon,Data Scientist,7.59
+S1198,Electrical,8.24,0,1,2,0,6.7,70.6,43.8,75.0,AWS;SQL;DSA;Java;Problem Solving;Machine Learning;Power BI;C++,1,Capgemini,System Engineer,8.67
+S1199,Electrical,8.69,0,2,1,1,5.7,65.6,42.0,87.9,SQL;Power BI;C++,1,Google,Support Engineer,8.6
+S1200,Civil,5.93,0,0,2,1,5.2,100.0,74.1,81.8,OS;C++;React;AWS;Excel;Power BI;Communication,0,,,
+S1201,Electrical,7.06,0,1,1,4,6.5,67.9,77.7,76.1,SQL;OS;Java;AWS;Excel,1,IBM,QA Engineer,7.56
+S1202,Electronics,5.98,0,0,2,2,7.0,68.7,56.0,93.9,Python;Communication;Networking;Java;Machine Learning;OS;React,1,TCS,Software Engineer,5.86
+S1203,Electronics,7.14,0,0,2,2,7.6,65.8,56.3,76.8,Java;C++;Problem Solving;React;Excel,1,Deloitte,Cloud Engineer,6.93
+S1204,Mechanical,7.01,0,2,2,0,7.5,82.1,88.4,73.9,Networking;Power BI;Excel;Python;OS;React;DSA,1,Amazon,Support Engineer,8.76
+S1205,Civil,7.09,0,1,4,1,5.6,96.3,31.1,83.5,Python;OS;Java;Communication,1,TechMahindra,Data Analyst,7.24
+S1206,Civil,7.5,0,2,2,1,4.8,61.0,52.3,86.7,SQL;Python;DSA;Excel;OS;C++;Networking;Problem Solving,0,,,
+S1207,Electronics,7.34,0,1,2,0,7.3,67.4,60.7,86.4,Problem Solving;Machine Learning;DBMS;Power BI;Communication,0,,,
+S1208,Electrical,6.78,2,3,2,2,9.3,62.1,73.0,71.7,Python;Power BI;C++;AWS;Communication;Java;Excel,1,Infosys,Cloud Engineer,9.1
+S1209,Electronics,6.22,0,1,0,0,7.7,61.9,71.3,71.8,Excel;AWS;C++;React;SQL,1,Amazon,Data Analyst,6.65
+S1210,Civil,6.89,0,0,2,0,9.7,61.3,53.5,76.8,SQL;Communication;Machine Learning;C++;Excel;DBMS;Problem Solving;Java,1,Cognizant,Cloud Engineer,5.56
+S1211,Electrical,5.86,0,3,4,1,5.8,76.9,24.5,89.1,AWS;SQL;C++;Excel;Power BI,1,Deloitte,Data Analyst,7.09
+S1212,Electrical,6.76,1,0,2,0,7.1,62.2,32.3,97.9,DBMS;Networking;Communication;Python;Power BI;Machine Learning;SQL;DSA,0,,,
+S1213,Electronics,8.76,0,1,4,3,6.9,59.6,0.0,85.3,DSA;Problem Solving;SQL;Power BI;Java;Machine Learning,1,Infosys,Software Engineer,8.14
+S1214,Electrical,8.1,0,0,0,2,6.2,71.6,67.3,91.9,Problem Solving;Power BI;React;SQL;AWS,1,Microsoft,System Engineer,6.99
+S1215,Information Technology,6.44,1,1,1,1,7.4,70.2,51.2,76.6,AWS;Excel;Power BI;React,1,Wipro,Support Engineer,6.49
+S1216,Computer Science,6.64,0,0,0,2,5.4,83.3,74.8,80.0,Communication;C++;Excel;DSA;OS;React,1,Cognizant,Support Engineer,7.15
+S1217,Information Technology,8.37,1,0,2,4,5.4,91.1,77.6,82.7,DSA;Machine Learning;Power BI;OS;Problem Solving;Communication;Excel,1,Google,QA Engineer,8.7
+S1218,Mechanical,7.73,0,3,0,0,6.0,41.2,74.3,89.8,Networking;DBMS;SQL;DSA;React;Power BI;Machine Learning,1,TCS,Support Engineer,9.23
+S1219,Electronics,9.1,0,3,3,2,10.0,68.5,69.0,87.3,Problem Solving;Java;Excel;Networking;AWS;Machine Learning;C++,1,Wipro,QA Engineer,11.52
+S1220,Mechanical,6.82,0,0,4,3,7.6,64.9,72.0,73.3,SQL;AWS;DBMS;Java;DSA;OS;Communication,1,TCS,Cloud Engineer,7.8
+S1221,Computer Science,6.66,0,2,0,2,8.8,76.6,42.0,83.5,Networking;Communication;DSA;DBMS;Java;AWS,0,,,
+S1222,Information Technology,8.49,0,1,3,1,7.1,85.8,42.1,79.8,Communication;Java;Excel,1,IBM,Data Scientist,8.45
+S1223,Information Technology,6.52,0,2,3,1,8.4,94.0,61.3,76.9,Python;Machine Learning;OS;Excel,1,Wipro,Support Engineer,7.33
+S1224,Mechanical,6.08,0,0,3,1,5.8,79.0,92.6,76.7,Python;Java;Problem Solving;Machine Learning;DSA;SQL;Networking,1,TechMahindra,Cloud Engineer,6.88
+S1225,Computer Science,6.81,2,1,3,1,8.9,57.6,54.7,77.8,DSA;Machine Learning;Java;Python;Problem Solving,0,,,
+S1226,Mechanical,7.61,0,1,1,1,6.7,87.7,49.0,76.9,Power BI;React;OS;Java;Excel;Problem Solving;Networking;Python,1,IBM,Business Analyst,8.5
+S1227,Electrical,5.95,0,1,1,0,5.9,68.1,61.2,76.2,Machine Learning;DBMS;Python;React,1,Amazon,Business Analyst,6.09
+S1228,Civil,7.22,0,1,2,1,7.1,77.2,39.3,88.6,SQL;C++;AWS;Java;Networking;Communication,1,Infosys,Software Engineer,8.16
+S1229,Mechanical,7.89,1,3,1,0,4.6,61.8,65.0,95.3,Python;C++;DBMS;Communication;Machine Learning;Problem Solving,1,Amazon,Data Analyst,9.44
+S1230,Electronics,7.09,0,0,2,3,6.7,52.0,57.5,84.5,Excel;C++;AWS;Java,1,Capgemini,Data Scientist,7.49
+S1231,Information Technology,6.91,0,0,2,2,4.6,57.5,64.7,84.4,Communication;Networking;Problem Solving,0,,,
+S1232,Electrical,7.09,0,0,1,0,9.2,60.5,89.1,90.0,AWS;Power BI;C++;OS,1,TechMahindra,Support Engineer,7.26
+S1233,Electrical,7.72,1,1,1,3,6.5,55.7,62.8,88.1,Power BI;SQL;Java;Excel,1,Google,Software Engineer,7.88
+S1234,Electronics,6.06,1,1,3,1,8.0,49.7,30.9,65.7,Python;Power BI;DSA;Problem Solving,0,,,
+S1235,Electronics,6.81,0,0,1,1,8.0,76.9,59.7,84.0,Networking;DBMS;Problem Solving;OS;Machine Learning,1,TCS,Business Analyst,6.15
+S1236,Electronics,6.17,0,0,0,0,7.9,76.9,66.1,86.6,AWS;Power BI;Python;C++;Communication,1,Cognizant,Data Analyst,5.96
+S1237,Electronics,6.39,0,1,2,1,5.2,72.2,69.9,86.4,Problem Solving;DBMS;Excel;OS;AWS;Communication,0,,,
+S1238,Information Technology,7.07,0,1,2,2,8.3,32.9,34.8,82.1,Excel;OS;Communication;Networking;Machine Learning;Java,0,,,
+S1239,Electrical,8.13,1,2,2,1,7.5,50.2,69.6,73.7,Java;DBMS;React;SQL;Networking;Machine Learning,1,Amazon,Data Analyst,9.71
+S1240,Computer Science,8.18,0,0,0,0,8.1,54.4,37.3,80.3,C++;Machine Learning;AWS;OS;React,1,TechMahindra,Cloud Engineer,6.42
+S1241,Information Technology,6.02,0,1,1,0,7.6,66.7,68.0,65.3,OS;Communication;Problem Solving;Python;AWS;React;DBMS;Machine Learning,1,IBM,Software Engineer,7.03
+S1242,Computer Science,8.98,0,0,2,2,7.3,49.8,61.5,74.6,C++;DBMS;Communication;Networking;Problem Solving;SQL;Python;React,1,Capgemini,Support Engineer,9.07
+S1243,Computer Science,7.69,0,1,4,0,5.7,24.7,64.7,81.6,Java;DSA;Power BI;C++,1,Amazon,Data Scientist,8.06
+S1244,Mechanical,8.62,0,0,3,4,8.2,81.4,48.7,71.4,Python;React;SQL;C++;OS;Communication;AWS,1,Google,Data Analyst,9.01
+S1245,Civil,7.22,0,1,3,1,8.2,77.7,19.6,77.1,Networking;Communication;DBMS;AWS,1,IBM,QA Engineer,7.27
+S1246,Information Technology,7.03,3,1,1,0,8.7,46.2,33.5,80.5,Python;Excel;SQL,0,,,
+S1247,Mechanical,6.74,0,1,3,0,7.7,47.9,56.4,81.9,DBMS;Networking;Java;Machine Learning;Excel;OS;DSA,0,,,
+S1248,Civil,7.54,0,2,2,3,8.9,71.1,44.5,93.2,Excel;OS;DSA;Java;SQL,1,Infosys,Support Engineer,9.14
+S1249,Information Technology,7.44,0,3,3,3,6.6,49.5,67.2,96.5,OS;Java;Power BI;C++;Communication;Excel;AWS;Machine Learning,1,Cognizant,System Engineer,9.86
+S1250,Electrical,6.73,0,0,2,2,5.4,68.3,51.4,91.2,Problem Solving;Excel;C++;SQL;Communication;Networking;DSA;Java,1,Accenture,System Engineer,6.43
+S1251,Information Technology,6.71,0,0,4,1,8.0,52.7,49.0,73.9,Python;Communication;Networking;React;AWS;OS,1,Deloitte,System Engineer,7.39
+S1252,Civil,8.06,1,2,3,0,5.1,68.9,50.3,73.9,Java;Machine Learning;DBMS,1,TechMahindra,Support Engineer,7.68
+S1253,Civil,7.0,0,0,3,1,7.5,60.1,73.2,84.7,Power BI;DBMS;React;Java;SQL;Communication,1,IBM,Data Analyst,7.6
+S1254,Mechanical,6.66,0,3,1,4,7.0,63.5,50.9,91.7,C++;Networking;Communication;SQL;AWS;React,1,Wipro,System Engineer,8.25
+S1255,Mechanical,8.27,0,0,3,2,5.0,70.8,79.6,98.1,Problem Solving;AWS;Python;Java;Networking;SQL;Machine Learning,1,Wipro,System Engineer,9.55
+S1256,Electronics,8.77,3,2,2,1,9.3,72.5,34.8,84.9,DSA;Communication;Networking;Machine Learning;Java;Excel;Problem Solving;React,1,Wipro,QA Engineer,7.88
+S1257,Civil,8.31,0,1,0,2,7.6,73.4,57.1,82.0,Java;Networking;C++;SQL;React;Power BI;Excel,1,Wipro,Data Scientist,7.45
+S1258,Civil,8.21,0,0,2,1,8.7,59.0,92.8,89.6,AWS;Problem Solving;Python,1,Infosys,Software Engineer,8.88
+S1259,Electrical,8.7,1,2,4,1,8.0,48.5,54.4,68.8,Machine Learning;C++;DSA;React;DBMS;Excel;Python,0,,,
+S1260,Mechanical,7.78,0,1,2,0,6.7,58.2,63.5,75.9,Networking;Machine Learning;C++;AWS;OS;DSA;DBMS;Excel,0,,,
+S1261,Mechanical,7.6,0,2,4,0,7.9,51.6,77.9,84.3,Excel;Python;SQL,1,Google,Cloud Engineer,9.34
+S1262,Mechanical,6.84,2,2,4,1,6.5,55.0,56.8,76.7,DSA;Communication;React;SQL;AWS;C++,1,TechMahindra,Data Scientist,8.02
+S1263,Mechanical,6.86,0,0,4,3,6.4,55.8,78.9,73.9,Power BI;Communication;Networking;Problem Solving,1,Infosys,Data Scientist,7.75
+S1264,Information Technology,6.61,0,0,1,1,5.0,78.2,53.2,66.7,Java;Machine Learning;OS;DSA;SQL;Problem Solving,0,,,
+S1265,Computer Science,7.16,1,0,2,1,4.8,76.7,44.8,81.8,DBMS;AWS;React;Problem Solving;DSA,0,,,
+S1266,Information Technology,8.12,0,1,2,2,6.0,72.2,66.6,85.2,Problem Solving;React;Excel;Communication;DSA,1,Wipro,Support Engineer,7.68
+S1267,Civil,6.23,0,2,2,2,6.1,60.9,79.0,77.8,OS;Machine Learning;Problem Solving;Python;Java;DBMS,1,Deloitte,Support Engineer,6.81
+S1268,Information Technology,7.08,2,0,2,1,6.4,46.5,71.9,65.2,React;Communication;Python;Power BI,0,,,
+S1269,Electronics,8.08,0,1,1,0,5.9,56.9,50.1,88.7,React;AWS;C++;Power BI;OS;Machine Learning,0,,,
+S1270,Civil,7.36,0,1,3,1,7.4,82.7,63.5,77.8,AWS;Java;DBMS,1,Wipro,QA Engineer,8.43
+S1271,Electrical,6.69,1,0,1,0,5.9,69.4,66.8,92.8,Power BI;DBMS;Communication;Python;AWS,0,,,
+S1272,Computer Science,7.92,0,1,0,2,5.5,55.0,65.3,80.5,Networking;DSA;Communication;Problem Solving;Machine Learning;Java;DBMS,1,Deloitte,Support Engineer,8.99
+S1273,Civil,7.11,0,1,2,3,6.3,70.7,62.5,65.0,AWS;React;C++;Problem Solving;Java,1,Wipro,Data Analyst,8.11
+S1274,Mechanical,8.1,0,0,0,1,6.4,69.3,59.2,78.6,Power BI;Communication;Networking;AWS;SQL,1,Accenture,Cloud Engineer,7.37
+S1275,Civil,6.5,0,0,2,2,7.3,58.3,73.6,73.1,Python;Problem Solving;SQL,1,TechMahindra,Data Scientist,6.82
+S1276,Mechanical,7.9,0,0,3,2,6.5,64.0,61.7,84.0,OS;SQL;React;Networking;AWS;Communication;Power BI,0,,,
+S1277,Information Technology,7.93,0,0,3,3,4.8,78.1,86.5,77.2,React;Excel;Machine Learning;Problem Solving;Communication;Networking,1,Deloitte,Support Engineer,8.88
+S1278,Electrical,6.56,1,3,1,2,5.0,48.6,65.4,81.6,Machine Learning;OS;Python;Communication;Excel;Java;DBMS,1,Capgemini,QA Engineer,8.6
+S1279,Electrical,7.13,0,2,3,4,4.5,50.8,91.5,89.5,C++;Python;React;OS;Machine Learning;Power BI;DSA;AWS,1,Capgemini,Support Engineer,9.71
+S1280,Information Technology,7.06,0,0,1,0,7.6,52.5,26.1,83.8,C++;Excel;React;DBMS;SQL;DSA;Python,0,,,
+S1281,Civil,8.84,0,0,2,1,7.0,49.9,55.0,87.7,Java;DSA;Python;OS;Communication;DBMS;SQL;React,1,TechMahindra,Business Analyst,8.73
+S1282,Mechanical,7.48,1,1,3,2,6.6,66.4,39.7,100.0,Power BI;React;OS;Excel;Python;SQL;Networking,1,Accenture,Data Scientist,8.12
+S1283,Electrical,6.69,0,0,3,1,7.2,46.4,66.0,80.8,Networking;DBMS;Communication;SQL;OS;Problem Solving,0,,,
+S1284,Electronics,7.24,0,0,0,2,7.4,43.8,71.8,67.1,Communication;C++;Power BI;Excel;AWS;Machine Learning;OS,0,,,
+S1285,Information Technology,8.23,1,1,2,1,5.3,55.4,58.8,75.2,Machine Learning;Networking;Problem Solving;DSA,1,Cognizant,QA Engineer,8.26
+S1286,Electrical,7.8,0,2,3,1,7.4,62.2,66.0,97.7,Excel;Problem Solving;OS;Communication,1,Google,Data Scientist,7.7
+S1287,Civil,6.71,0,1,4,2,5.5,61.9,71.0,83.3,Machine Learning;Problem Solving;Java;React;C++;Networking;DBMS;Excel,1,Amazon,System Engineer,8.13
+S1288,Electronics,6.73,0,1,3,2,6.1,60.7,40.8,67.7,Machine Learning;Excel;Java,1,Amazon,Support Engineer,7.04
+S1289,Electrical,7.48,0,0,1,1,5.1,60.6,62.8,90.1,Excel;OS;DSA;Power BI;Networking,1,Cognizant,QA Engineer,8.09
+S1290,Information Technology,7.32,2,0,4,4,7.1,89.5,46.8,96.5,React;Excel;Problem Solving,1,Accenture,Business Analyst,8.04
+S1291,Computer Science,7.55,1,1,3,1,6.5,69.6,59.0,91.8,Problem Solving;Networking;DSA;C++;Power BI;Python;Java;DBMS,1,Amazon,Support Engineer,8.63
+S1292,Computer Science,5.71,0,0,1,0,8.9,54.6,83.5,72.6,Power BI;SQL;Python;Networking;AWS;DBMS;OS;Excel,0,,,
+S1293,Electrical,7.18,0,0,4,0,7.6,89.7,79.3,76.2,Power BI;Machine Learning;Communication;AWS,1,IBM,Software Engineer,7.96
+S1294,Computer Science,7.7,0,0,2,1,5.2,60.5,38.2,85.1,React;DSA;Networking;Excel;Python;SQL;DBMS;Problem Solving,1,TCS,Cloud Engineer,7.19
+S1295,Mechanical,6.54,0,1,2,0,6.5,59.4,50.9,77.2,Problem Solving;Excel;Machine Learning;Python,1,TCS,QA Engineer,6.54
+S1296,Civil,5.58,0,1,0,1,8.6,66.5,50.9,84.8,Java;Communication;Machine Learning;OS;C++;Networking;React,0,,,
+S1297,Mechanical,7.23,0,2,1,2,6.7,56.0,67.8,85.8,AWS;Networking;OS;Machine Learning,1,Accenture,Data Analyst,8.74
+S1298,Electronics,6.81,1,0,2,1,2.7,59.4,41.3,68.9,Excel;OS;C++;Machine Learning,0,,,
+S1299,Electrical,7.53,1,2,1,0,5.1,52.9,35.8,95.6,Python;Excel;Communication;Machine Learning,0,,,
+S1300,Civil,6.52,0,1,3,0,5.0,76.6,42.0,76.0,Power BI;DSA;SQL;React;C++;DBMS;Excel;Communication,1,Infosys,Cloud Engineer,7.16
+S1301,Electrical,6.27,1,1,3,1,5.7,85.0,38.5,89.1,SQL;Problem Solving;OS,1,Amazon,Business Analyst,7.03
+S1302,Computer Science,8.3,0,2,1,1,4.7,36.8,72.8,66.9,DBMS;DSA;OS;Machine Learning;Communication,0,,,
+S1303,Electronics,8.14,0,2,0,1,7.6,50.7,47.8,75.8,Excel;React;Python;Machine Learning;C++;Communication;DSA,0,,,
+S1304,Computer Science,8.05,0,0,4,2,8.1,90.3,89.2,89.3,Java;OS;Machine Learning;SQL;DBMS;Networking;Power BI;Problem Solving,1,IBM,QA Engineer,8.24
+S1305,Electronics,6.83,0,0,3,0,8.7,75.4,65.1,74.1,DSA;Problem Solving;SQL;OS;Power BI;Excel;Communication,0,,,
+S1306,Mechanical,7.04,1,0,2,0,3.8,62.2,54.2,82.6,Networking;OS;Power BI;Problem Solving;C++;DSA;React;Java,0,,,
+S1307,Civil,7.05,0,0,1,2,7.1,79.1,60.2,100.0,Networking;Excel;Communication;Java;React;AWS,1,TCS,Business Analyst,6.97
+S1308,Civil,6.58,0,3,2,0,5.4,80.5,94.2,84.0,SQL;Problem Solving;Communication;Networking;OS;Java;DSA,1,TechMahindra,Support Engineer,9.09
+S1309,Computer Science,8.25,0,3,1,0,5.6,54.3,81.4,93.5,OS;Power BI;Python;Problem Solving;SQL;Networking;DBMS,1,Google,Software Engineer,10.35
+S1310,Civil,6.18,0,0,1,0,5.7,69.3,87.6,76.7,C++;Power BI;Machine Learning;Excel;Python;DBMS,0,,,
+S1311,Electronics,6.48,0,0,2,3,8.7,66.5,44.8,93.3,Excel;DSA;React,1,Infosys,Software Engineer,5.62
+S1312,Mechanical,7.0,0,0,1,2,6.5,84.2,66.1,72.3,Excel;Java;Networking;Python;AWS,1,Google,Software Engineer,6.28
+S1313,Electronics,8.39,0,0,2,0,8.4,91.0,72.7,90.3,SQL;Power BI;Problem Solving;C++;Excel;DBMS,1,Amazon,Cloud Engineer,8.6
+S1314,Mechanical,8.89,0,0,0,0,6.8,96.3,41.7,79.1,DBMS;Java;C++;Power BI;Networking;SQL,1,IBM,Data Scientist,7.58
+S1315,Computer Science,9.6,0,0,0,0,5.9,82.7,100.0,87.3,Networking;DBMS;Problem Solving;SQL,1,TechMahindra,Business Analyst,8.38
+S1316,Computer Science,7.3,0,0,1,3,6.0,53.0,84.6,77.8,Machine Learning;OS;C++,1,TechMahindra,Cloud Engineer,9.11
+S1317,Civil,7.75,0,3,0,1,9.3,76.5,78.2,91.8,AWS;DSA;Problem Solving;OS;Communication;SQL,1,Cognizant,Business Analyst,8.38
+S1318,Electrical,7.04,0,3,1,0,9.0,71.4,61.4,77.2,Python;Power BI;C++,1,Microsoft,Software Engineer,8.06
+S1319,Information Technology,6.17,0,3,2,1,6.8,38.1,35.6,76.3,Java;Problem Solving;React;Python,0,,,
+S1320,Mechanical,9.06,0,2,4,2,10.0,56.9,27.7,93.9,C++;Excel;Python;DSA;Power BI;DBMS;OS,1,Accenture,Business Analyst,9.94
+S1321,Computer Science,6.43,0,2,1,0,9.8,82.9,63.8,90.2,Networking;Machine Learning;DSA;Excel,1,Capgemini,Data Scientist,7.17
+S1322,Civil,8.55,0,1,4,1,6.7,63.9,95.5,70.9,Power BI;C++;Communication;DSA;Machine Learning;SQL;Networking,1,Accenture,Cloud Engineer,10.88
+S1323,Electronics,7.59,0,1,2,2,7.6,52.8,58.2,78.1,Python;Networking;React;Excel;SQL,1,IBM,Cloud Engineer,8.6
+S1324,Civil,7.41,0,1,3,1,6.0,77.7,56.9,73.4,Python;Communication;C++;Power BI;DBMS;Networking,1,Amazon,Cloud Engineer,7.73
+S1325,Mechanical,7.17,0,3,2,0,5.9,63.8,67.7,85.3,Machine Learning;DBMS;SQL;Networking,1,Google,Business Analyst,9.39
+S1326,Information Technology,6.8,0,2,2,2,6.9,73.7,35.8,86.0,AWS;Excel;SQL;OS;Python,1,Deloitte,Cloud Engineer,6.86
+S1327,Mechanical,7.56,0,1,3,1,6.0,68.5,38.1,80.3,Networking;SQL;DBMS;DSA;Machine Learning;Excel;Communication,1,IBM,Data Analyst,7.53
+S1328,Mechanical,6.17,0,1,2,1,6.5,67.8,46.9,82.1,Java;Networking;Excel;DSA;Python,1,Cognizant,Cloud Engineer,7.46
+S1329,Electrical,9.01,1,1,4,0,7.0,44.9,52.6,83.1,React;Python;Java;DSA;Problem Solving;Networking;Excel,0,,,
+S1330,Mechanical,6.86,0,0,1,0,7.9,40.4,62.2,84.6,AWS;Communication;Machine Learning;Python,1,Accenture,Business Analyst,6.3
+S1331,Electrical,8.18,0,0,3,1,3.9,25.4,54.2,82.9,Excel;Power BI;OS,0,,,
+S1332,Information Technology,7.76,0,1,1,0,7.5,57.0,69.2,97.5,React;Excel;DSA;DBMS;Power BI;Networking;Communication;Machine Learning,1,Microsoft,Support Engineer,7.23
+S1333,Civil,6.12,0,3,1,2,4.7,39.5,49.2,90.6,Communication;Machine Learning;AWS;Problem Solving;Networking;OS;React;Java,0,,,
+S1334,Electrical,8.84,1,2,4,0,4.4,53.1,67.6,92.2,Power BI;AWS;Communication;DSA;Problem Solving;C++,1,Microsoft,Software Engineer,8.88
+S1335,Civil,7.44,0,1,2,0,6.8,85.5,39.0,61.0,Excel;SQL;Python;Machine Learning,1,Deloitte,Cloud Engineer,6.86
+S1336,Electronics,8.65,0,1,2,1,9.4,83.1,48.8,69.0,DSA;Communication;Problem Solving;DBMS,1,Capgemini,Business Analyst,8.97
+S1337,Mechanical,8.54,0,1,2,0,7.2,57.0,31.8,84.8,C++;Problem Solving;Communication;Machine Learning;OS;AWS;React,1,Wipro,Data Scientist,9.53
+S1338,Information Technology,7.3,0,2,0,2,6.5,51.6,58.9,88.8,Excel;Networking;OS;SQL,1,Deloitte,Software Engineer,9.22
+S1339,Civil,8.16,0,0,4,3,6.9,88.4,52.1,83.2,AWS;Problem Solving;Java,1,IBM,Software Engineer,9.33
+S1340,Computer Science,6.55,0,0,2,1,5.9,54.1,63.6,70.1,SQL;AWS;C++;DSA;Java;Problem Solving,1,TCS,Business Analyst,6.57
+S1341,Civil,8.42,0,1,3,2,6.2,99.6,33.4,92.1,Communication;Python;React;C++;Excel;Power BI,1,Google,Support Engineer,9.43
+S1342,Computer Science,7.88,0,0,4,0,6.3,57.9,53.4,82.0,Networking;Problem Solving;DBMS,1,TCS,Software Engineer,8.55
+S1343,Civil,8.0,0,0,2,0,5.7,65.5,62.0,80.6,Machine Learning;Networking;Problem Solving;Python;AWS;DBMS;SQL;Java,1,Infosys,System Engineer,7.78
+S1344,Information Technology,7.98,2,1,1,2,8.3,65.3,33.7,76.5,React;Networking;Machine Learning;Communication,1,Cognizant,Cloud Engineer,6.69
+S1345,Computer Science,6.55,0,0,1,2,7.9,71.3,64.8,79.3,DBMS;OS;React;DSA;Excel,0,,,
+S1346,Electronics,7.63,0,0,0,1,5.7,48.3,64.7,83.7,AWS;Problem Solving;Java;C++;Excel;Python;Power BI;DBMS,1,Microsoft,Cloud Engineer,6.57
+S1347,Civil,7.68,0,3,3,1,7.0,98.2,53.5,76.2,Python;C++;Problem Solving;Excel;SQL;Java,1,Google,Cloud Engineer,9.35
+S1348,Electrical,7.61,0,2,3,1,8.2,78.1,39.4,88.6,React;AWS;Java;Networking;Python,1,Accenture,Business Analyst,8.36
+S1349,Electrical,8.93,1,1,1,2,6.9,92.1,44.5,100.0,OS;Machine Learning;Python;Java;C++;AWS;Networking,1,Capgemini,Software Engineer,9.15
+S1350,Information Technology,8.06,0,2,3,1,7.3,74.1,56.0,74.6,Python;DSA;React;SQL;DBMS,1,Infosys,QA Engineer,9.86
+S1351,Information Technology,8.61,0,0,4,0,6.1,85.3,67.6,82.3,DSA;React;DBMS;C++;Networking;Communication;Power BI,1,TechMahindra,System Engineer,7.98
+S1352,Electrical,6.17,0,1,4,1,6.5,63.4,77.9,95.6,Java;Networking;Excel;Communication;Python;Problem Solving;DBMS;DSA,1,Infosys,Data Scientist,8.5
+S1353,Civil,6.96,0,2,2,1,8.0,52.6,23.7,83.2,React;DBMS;Power BI;Communication;Python;Machine Learning;OS,1,Google,Business Analyst,7.29
+S1354,Electronics,7.32,1,0,0,0,4.8,58.9,68.6,87.4,DBMS;Problem Solving;SQL;C++;React;AWS;Java,0,,,
+S1355,Civil,7.59,0,0,2,1,7.0,86.8,74.5,81.1,Power BI;DSA;Excel;Java;Problem Solving,1,Cognizant,System Engineer,7.4
+S1356,Mechanical,6.68,0,1,4,1,4.0,61.8,87.1,81.9,Power BI;C++;SQL;Excel;DBMS;Communication;React;Java,0,,,
+S1357,Computer Science,7.57,0,0,2,2,5.4,84.6,72.0,77.6,Machine Learning;OS;Communication,1,Cognizant,Data Analyst,7.21
+S1358,Information Technology,6.59,0,0,1,1,4.2,46.6,22.6,81.3,SQL;DBMS;OS,0,,,
+S1359,Civil,6.35,0,0,3,0,5.3,51.6,65.8,85.9,Networking;DBMS;Java;Python;Power BI;Communication;Problem Solving,1,Infosys,Data Scientist,6.15
+S1360,Mechanical,7.83,0,2,0,4,6.2,62.5,63.8,74.1,Machine Learning;DBMS;AWS,1,Infosys,Business Analyst,8.41
+S1361,Civil,8.14,0,1,1,1,3.7,74.8,74.6,74.0,SQL;C++;DBMS;Problem Solving;Excel;Machine Learning;React,1,Cognizant,Support Engineer,8.72
+S1362,Information Technology,7.1,0,0,1,3,5.8,59.0,38.7,78.8,SQL;DBMS;Machine Learning,0,,,
+S1363,Mechanical,7.54,0,2,1,1,8.5,72.2,56.4,77.8,OS;Power BI;Java;Communication;Machine Learning,1,Accenture,Support Engineer,7.32
+S1364,Civil,8.49,0,1,3,1,5.9,54.4,77.6,71.0,DSA;OS;Java;SQL;Machine Learning;Python;DBMS,1,Amazon,Cloud Engineer,8.85
+S1365,Electronics,8.56,1,0,2,1,8.6,48.4,53.4,80.8,Communication;DBMS;C++;React;SQL;Machine Learning,1,Amazon,Business Analyst,7.76
+S1366,Mechanical,6.05,0,0,1,0,5.3,64.3,68.5,80.3,SQL;DBMS;Communication;Machine Learning;C++,0,,,
+S1367,Mechanical,7.59,1,1,2,0,9.1,48.5,33.4,76.1,Power BI;DSA;Communication;DBMS;Machine Learning;Excel;Problem Solving,1,Infosys,Business Analyst,7.91
+S1368,Civil,7.86,1,0,1,1,8.9,69.5,63.2,67.2,SQL;C++;Power BI;Networking;Python;OS;DSA,0,,,
+S1369,Mechanical,6.5,0,1,2,4,8.4,61.7,81.5,77.6,AWS;Excel;Java;DBMS;C++,1,Google,System Engineer,9.02
+S1370,Electrical,7.94,1,2,2,0,9.1,50.9,89.1,79.4,DSA;Machine Learning;C++;SQL;DBMS,1,Microsoft,Data Analyst,8.55
+S1371,Mechanical,7.74,0,1,1,0,6.6,90.0,44.1,61.3,OS;React;DBMS;Networking;Excel;Power BI;C++,0,,,
+S1372,Computer Science,8.97,0,1,1,0,7.1,79.4,68.3,72.6,Excel;Power BI;Networking;React;C++,1,Infosys,Data Analyst,8.94
+S1373,Information Technology,8.67,0,3,2,1,7.7,59.8,46.1,85.0,C++;Communication;SQL;Problem Solving;React;Python;DBMS;AWS,1,Microsoft,Data Analyst,10.61
+S1374,Computer Science,8.35,0,2,0,2,6.7,46.9,55.5,84.5,Machine Learning;DSA;Networking,1,TechMahindra,Business Analyst,9.93
+S1375,Mechanical,6.78,0,0,2,2,5.9,65.7,73.8,77.1,DBMS;OS;Power BI;C++;React,1,TechMahindra,System Engineer,7.4
+S1376,Electronics,9.54,0,0,2,5,8.6,73.5,41.1,92.9,OS;Java;Machine Learning,1,Microsoft,Data Analyst,10.74
+S1377,Computer Science,5.45,0,0,3,0,7.3,63.1,45.1,75.9,SQL;Communication;Machine Learning;AWS;OS;DSA;Networking;C++,0,,,
+S1378,Electronics,9.04,0,0,4,2,3.9,60.2,89.6,84.9,Java;OS;Excel;Power BI;AWS;Communication,1,Infosys,QA Engineer,11.56
+S1379,Computer Science,7.64,0,1,2,0,5.8,55.9,88.4,82.2,Java;Python;Communication;C++;Problem Solving;SQL;DSA;React,1,Deloitte,System Engineer,7.75
+S1380,Electronics,7.48,0,0,3,0,6.7,56.3,51.3,87.6,DBMS;OS;DSA;Problem Solving;C++;SQL;React,1,IBM,Cloud Engineer,7.12
+S1381,Mechanical,6.8,0,1,1,1,5.7,61.1,88.8,88.4,Excel;React;DSA,1,Google,Cloud Engineer,7.11
+S1382,Mechanical,9.23,0,2,1,1,6.8,54.7,63.7,88.1,Excel;DSA;AWS,1,Cognizant,Data Analyst,9.37
+S1383,Civil,6.19,1,1,2,0,8.7,40.5,64.2,77.7,Power BI;AWS;Networking,1,Wipro,Data Scientist,5.94
+S1384,Electronics,7.49,0,2,2,4,5.4,55.5,63.4,84.4,OS;Java;Machine Learning;C++,1,Google,Data Scientist,8.76
+S1385,Civil,6.78,0,1,1,1,6.3,34.9,53.0,79.6,React;DBMS;Problem Solving;Java;Communication;C++,1,Google,System Engineer,6.57
+S1386,Electrical,8.62,0,0,0,3,8.0,66.2,80.5,78.9,Power BI;Machine Learning;React;Problem Solving;Java;SQL;Communication;C++,1,Accenture,QA Engineer,8.72
+S1387,Computer Science,7.68,0,3,1,1,7.6,56.2,57.6,82.6,Communication;Excel;SQL;Networking,1,Microsoft,Cloud Engineer,8.33
+S1388,Civil,6.32,3,1,3,2,8.3,62.2,47.8,73.2,React;DBMS;AWS;SQL,0,,,
+S1389,Mechanical,8.7,0,2,1,0,4.7,61.4,26.0,78.4,Networking;Excel;C++;SQL;Problem Solving;AWS;OS;Machine Learning,1,Wipro,System Engineer,7.73
+S1390,Electronics,7.41,1,0,2,1,5.9,54.0,89.8,80.1,React;Python;Communication;AWS;OS;SQL,1,Accenture,Cloud Engineer,7.82
+S1391,Civil,7.05,0,3,2,3,6.9,70.7,65.6,69.8,C++;OS;DBMS;Problem Solving;AWS;Power BI;Excel,1,Google,System Engineer,7.73
+S1392,Computer Science,6.61,0,1,4,0,6.8,68.3,82.7,67.1,Python;Power BI;AWS;DSA;Machine Learning;Problem Solving;C++,1,Accenture,QA Engineer,7.97
+S1393,Information Technology,6.91,0,0,1,2,7.9,57.7,42.6,80.6,React;Excel;Power BI;OS;Networking;C++,0,,,
+S1394,Computer Science,7.74,0,0,4,3,7.2,57.4,44.8,77.3,Java;Machine Learning;Power BI;Networking;Communication;Excel;Python,1,TechMahindra,Support Engineer,8.25
+S1395,Civil,6.3,0,1,0,1,7.4,69.0,83.1,62.6,DBMS;Java;Excel;C++,1,Accenture,QA Engineer,7.22
+S1396,Computer Science,7.07,1,0,2,3,7.1,48.6,42.3,74.2,Machine Learning;Communication;Java;OS;Power BI;DSA,0,,,
+S1397,Information Technology,6.59,0,1,2,0,7.0,56.3,55.4,80.7,React;Excel;Communication;AWS;Problem Solving;DBMS;SQL;Networking,1,Accenture,Business Analyst,7.0
+S1398,Computer Science,7.34,0,0,2,3,7.6,94.8,100.0,72.6,Communication;Networking;Machine Learning;React;AWS;SQL;Problem Solving,0,,,
+S1399,Electrical,7.0,1,1,2,0,9.4,71.3,65.0,82.1,Machine Learning;React;Problem Solving;Networking;C++,1,Infosys,System Engineer,8.07
+S1400,Mechanical,6.75,0,1,1,2,7.3,85.5,79.3,77.6,Machine Learning;AWS;C++,1,Wipro,System Engineer,7.58
+S1401,Information Technology,5.91,0,0,2,1,6.9,72.1,79.0,83.6,Excel;Communication;DSA;C++,1,Microsoft,Support Engineer,5.75
+S1402,Information Technology,8.58,0,1,2,1,5.7,46.3,26.0,77.2,C++;Machine Learning;Problem Solving;DBMS;Excel;OS;Java,1,IBM,Data Analyst,7.52
+S1403,Mechanical,8.14,0,0,0,1,6.7,35.1,41.9,77.3,Excel;Machine Learning;Problem Solving;Communication;OS;C++;Power BI,0,,,
+S1404,Civil,7.24,0,1,4,0,7.3,82.4,77.5,75.8,AWS;Power BI;Excel,1,Infosys,Support Engineer,8.49
+S1405,Electrical,7.43,0,0,3,0,5.9,62.9,81.7,78.5,Excel;Communication;Java;Networking;DBMS;DSA;C++;React,0,,,
+S1406,Mechanical,6.99,0,0,1,2,5.4,53.1,52.4,71.1,Communication;AWS;Machine Learning;Problem Solving;Networking,0,,,
+S1407,Civil,6.77,0,3,4,1,5.1,62.0,51.6,82.4,React;AWS;OS;Communication,1,IBM,Software Engineer,7.83
+S1408,Computer Science,7.39,0,1,1,0,6.9,39.2,43.5,90.4,C++;Power BI;OS,1,TCS,Data Analyst,7.38
+S1409,Information Technology,6.76,0,2,3,1,8.1,81.3,88.9,85.4,OS;Python;DBMS;DSA;SQL;Machine Learning,1,Wipro,QA Engineer,9.65
+S1410,Computer Science,5.44,0,2,2,2,6.4,64.3,31.5,74.5,Communication;Machine Learning;Java;Problem Solving;C++;SQL;Python;DBMS,1,IBM,QA Engineer,5.99
+S1411,Electrical,6.26,0,0,4,2,5.6,74.7,70.5,78.7,Power BI;DSA;DBMS;C++;Java;Excel;Python;AWS,1,Google,Data Analyst,7.41
+S1412,Information Technology,7.55,0,1,2,0,8.5,54.9,64.0,68.1,DSA;Networking;C++;OS;Python;Power BI;Communication,1,Infosys,Cloud Engineer,7.45
+S1413,Electrical,7.66,0,0,1,0,5.7,66.2,79.0,74.2,OS;Java;DSA;DBMS,1,Infosys,Data Analyst,7.23
+S1414,Computer Science,7.44,0,0,1,0,7.0,55.9,52.7,76.5,Communication;Machine Learning;SQL;DBMS;Power BI,0,,,
+S1415,Electrical,6.01,0,2,3,0,5.5,79.2,34.9,91.8,SQL;Java;Networking;React;Python;Excel;Problem Solving;OS,0,,,
+S1416,Electronics,6.49,1,0,3,4,5.5,72.3,79.3,75.0,DSA;C++;Excel;SQL;DBMS;React;OS;Problem Solving,1,Infosys,Data Analyst,8.04
+S1417,Information Technology,6.81,0,2,3,1,6.7,49.1,15.0,83.6,React;Excel;DBMS,1,Amazon,Cloud Engineer,7.64
+S1418,Electronics,6.63,2,1,2,1,6.9,83.8,77.0,74.8,DSA;Machine Learning;C++;Java,1,Accenture,QA Engineer,6.78
+S1419,Electrical,7.01,0,2,4,1,7.0,68.4,49.9,77.6,AWS;Problem Solving;C++,1,Cognizant,Business Analyst,8.87
+S1420,Civil,7.58,0,0,4,2,4.6,61.8,81.2,86.8,Networking;DSA;Excel;DBMS;Machine Learning;Python;AWS,1,Google,Cloud Engineer,7.43
+S1421,Computer Science,7.73,0,0,1,0,8.9,82.2,65.3,92.1,OS;C++;React;Java,1,Deloitte,Software Engineer,7.24
+S1422,Electronics,8.29,0,0,3,2,4.4,49.1,71.3,75.0,SQL;DBMS;React;AWS;Communication,1,Deloitte,System Engineer,8.58
+S1423,Mechanical,8.07,2,1,1,0,7.4,69.8,83.1,92.4,Python;React;Java,0,,,
+S1424,Computer Science,7.79,1,0,3,1,4.8,80.8,38.5,84.3,DSA;Python;AWS;DBMS;Networking,0,,,
+S1425,Electronics,6.82,0,3,1,0,5.9,65.1,89.2,72.1,Excel;Networking;Power BI;DBMS;Problem Solving;C++;Java;SQL,1,Cognizant,Data Analyst,8.93
+S1426,Electronics,8.07,0,0,2,2,9.1,50.6,35.7,69.3,Networking;DSA;Power BI,0,,,
+S1427,Information Technology,7.67,0,2,1,2,6.7,72.3,62.7,85.0,Communication;DBMS;React;C++;Excel;Java;Machine Learning,1,TechMahindra,Cloud Engineer,8.3
+S1428,Electrical,6.46,0,0,1,2,7.3,51.5,51.2,90.6,Python;DSA;Java;DBMS,0,,,
+S1429,Computer Science,9.08,0,1,1,0,7.4,79.6,58.0,91.7,React;Problem Solving;Python;Machine Learning;C++;SQL,0,,,
+S1430,Computer Science,7.53,0,1,3,3,6.5,67.1,62.3,82.7,Excel;SQL;Problem Solving,1,TCS,System Engineer,8.15
+S1431,Mechanical,9.05,0,0,3,2,7.3,73.8,58.2,81.5,Networking;Problem Solving;Power BI;Excel;Machine Learning,1,Wipro,Data Scientist,9.35
+S1432,Information Technology,7.95,0,0,3,0,8.8,43.6,65.0,79.6,Power BI;AWS;Machine Learning;Excel;Java;Python;Communication;DBMS,1,Cognizant,Data Analyst,7.21
+S1433,Electronics,8.85,0,0,0,1,5.8,52.3,64.0,82.6,React;C++;Java;OS;Excel;Networking;Communication;Python,0,,,
+S1434,Mechanical,8.61,0,3,4,0,6.8,56.1,54.6,88.5,SQL;Communication;Problem Solving;Machine Learning;Java;React;C++,1,Accenture,Software Engineer,9.99
+S1435,Computer Science,7.07,3,1,2,0,5.9,59.9,56.9,87.8,DSA;Python;OS,0,,,
+S1436,Electronics,7.42,1,1,3,1,8.7,44.3,56.5,77.1,Problem Solving;SQL;AWS;Python;Networking;DBMS,1,Accenture,Data Scientist,8.05
+S1437,Information Technology,7.44,1,1,3,2,9.1,84.7,40.3,80.0,Problem Solving;Excel;Communication;Machine Learning;Java;React,1,Amazon,Data Analyst,7.56
+S1438,Civil,6.7,0,0,2,0,6.4,80.5,49.9,85.3,Problem Solving;Python;SQL;DSA;Networking;AWS;DBMS;Java,1,Google,QA Engineer,6.16
+S1439,Electronics,7.02,0,1,0,2,5.6,76.6,66.4,92.1,Java;Networking;OS;Python;Communication,1,Accenture,QA Engineer,7.63
+S1440,Civil,6.12,1,1,1,2,4.8,64.1,33.6,92.5,Excel;React;DSA;OS;Communication,1,Capgemini,Support Engineer,4.87
+S1441,Information Technology,5.0,0,3,3,2,4.9,64.5,30.9,80.2,Problem Solving;Networking;Power BI;DSA;SQL;Python;DBMS;React,0,,,
+S1442,Information Technology,7.63,0,1,2,0,6.6,53.0,55.5,74.7,Communication;C++;Excel;Python;Problem Solving;Power BI;DBMS,0,,,
+S1443,Electrical,9.2,0,0,2,2,5.6,65.5,71.7,68.9,Machine Learning;Java;DSA;Networking;Power BI;DBMS;OS;Python,1,Wipro,QA Engineer,8.56
+S1444,Computer Science,7.96,0,2,3,2,5.2,53.2,76.2,91.0,Problem Solving;DSA;Networking,1,Microsoft,Data Scientist,9.31
+S1445,Mechanical,6.44,0,0,0,2,8.1,72.9,56.6,80.4,Java;React;Problem Solving;Networking;SQL;DBMS;Power BI;Python,0,,,
+S1446,Mechanical,6.86,0,0,2,2,7.0,63.2,70.6,81.3,SQL;DSA;Machine Learning;Power BI;Communication;DBMS;C++;Networking,0,,,
+S1447,Mechanical,8.7,1,0,4,2,7.4,70.4,61.5,81.7,DSA;Java;Problem Solving;SQL;React,1,Infosys,System Engineer,9.34
+S1448,Computer Science,6.24,0,1,0,1,7.8,66.7,78.1,86.1,OS;Problem Solving;Communication;DBMS,1,Infosys,Data Scientist,5.31
+S1449,Information Technology,9.2,0,0,3,2,7.4,50.6,62.4,81.1,Machine Learning;OS;Problem Solving;Java;Excel;SQL,1,IBM,QA Engineer,8.95
+S1450,Electrical,7.33,0,0,3,3,6.0,70.7,96.0,98.2,React;Python;DSA;Communication;SQL;Java;Power BI;Excel,1,Microsoft,Software Engineer,9.33
+S1451,Electrical,7.07,1,0,0,0,6.1,69.4,33.0,92.2,Machine Learning;AWS;SQL;Python;DBMS,0,,,
+S1452,Mechanical,7.89,0,2,4,0,5.0,68.9,78.4,80.4,Excel;Networking;DSA;Java;OS;Problem Solving;SQL,1,Infosys,Software Engineer,8.95
+S1453,Computer Science,8.23,0,1,3,3,7.9,81.2,54.1,55.8,SQL;DSA;DBMS;Communication,1,IBM,Data Analyst,8.75
+S1454,Civil,7.55,0,0,2,1,7.2,64.0,86.2,76.1,Machine Learning;AWS;Java;Python;Power BI;DSA;OS,1,Wipro,Data Analyst,7.68
+S1455,Electronics,7.2,0,1,1,0,7.2,72.3,24.9,65.6,Python;OS;Problem Solving,1,Wipro,Cloud Engineer,6.82
+S1456,Electrical,7.21,0,0,2,1,7.3,86.4,52.5,88.1,OS;Python;DBMS;C++;Power BI;SQL,1,Amazon,Business Analyst,5.74
+S1457,Information Technology,6.98,1,1,3,1,7.4,62.6,56.7,75.2,Machine Learning;OS;SQL;Python;React,1,Capgemini,Business Analyst,7.66
+S1458,Electrical,7.91,0,0,3,2,6.5,59.3,62.6,82.4,OS;DBMS;Networking;Problem Solving;Python,1,Infosys,QA Engineer,9.16
+S1459,Mechanical,6.88,0,2,2,0,5.7,75.3,57.5,91.3,DBMS;DSA;C++;Networking,1,Accenture,Software Engineer,7.96
+S1460,Mechanical,6.57,1,2,1,1,6.4,73.0,62.7,91.5,Communication;OS;Networking;AWS;Problem Solving;React;Power BI;C++,1,Microsoft,QA Engineer,8.82
+S1461,Information Technology,6.69,1,0,1,0,7.4,44.5,47.2,61.4,Communication;React;DSA,1,TCS,QA Engineer,5.58
+S1462,Computer Science,7.43,0,2,2,1,6.1,58.2,51.1,88.9,Networking;Communication;Power BI;React;DSA;SQL,1,Infosys,Business Analyst,7.25
+S1463,Electrical,6.69,0,0,3,4,8.2,74.5,51.5,75.8,Machine Learning;Networking;Power BI;Excel,0,,,
+S1464,Computer Science,8.75,0,0,4,0,5.4,39.7,59.9,76.7,React;AWS;Power BI;DBMS,1,Amazon,System Engineer,7.76
+S1465,Information Technology,6.29,0,2,1,1,7.3,58.3,43.8,86.8,React;Communication;Power BI;Excel,1,TechMahindra,Data Scientist,6.95
+S1466,Civil,6.56,0,3,3,1,7.0,77.8,52.4,73.0,Excel;Problem Solving;Communication,1,Capgemini,System Engineer,9.21
+S1467,Civil,8.46,1,2,4,0,9.1,69.6,70.6,93.3,AWS;Power BI;OS;Networking,1,Cognizant,System Engineer,10.32
+S1468,Mechanical,8.09,0,1,1,1,8.3,32.1,87.6,91.0,Java;Python;DSA,1,Capgemini,Business Analyst,8.46
+S1469,Computer Science,7.05,1,0,4,3,8.2,44.0,70.6,80.4,OS;Python;Communication;React;DSA;SQL;Power BI,1,TechMahindra,System Engineer,9.53
+S1470,Electronics,8.38,0,0,2,1,7.1,83.8,74.2,89.8,Python;SQL;React,1,TechMahindra,System Engineer,9.01
+S1471,Computer Science,7.48,0,3,2,0,7.5,63.1,74.4,78.9,AWS;Communication;Java;Problem Solving;C++;DBMS;Power BI,1,Amazon,QA Engineer,8.73
+S1472,Electronics,7.09,0,0,3,1,6.0,84.6,22.7,74.4,SQL;Excel;DBMS;C++,1,Google,Data Scientist,7.31
+S1473,Information Technology,7.4,0,1,3,0,7.2,62.8,70.2,95.1,Networking;Excel;React;Communication;DSA;Power BI;SQL;DBMS,1,Cognizant,QA Engineer,8.11
+S1474,Information Technology,7.0,0,1,2,0,5.6,28.9,65.6,96.3,Excel;Python;Problem Solving;React,1,Microsoft,Software Engineer,7.8
+S1475,Information Technology,6.54,0,0,2,0,7.8,45.9,78.9,85.9,Communication;Power BI;React;DSA;C++;AWS;Java,1,Google,System Engineer,6.46
+S1476,Electronics,7.01,3,1,3,0,6.0,65.3,74.2,83.0,Java;DSA;Communication;Power BI;SQL;Problem Solving;Excel;OS,1,TCS,QA Engineer,6.53
+S1477,Information Technology,9.14,2,1,0,1,3.3,39.9,27.1,90.4,Excel;Java;Communication;Machine Learning,0,,,
+S1478,Computer Science,8.46,0,0,4,1,6.8,68.5,76.2,78.2,Python;Problem Solving;DBMS;OS;Power BI;SQL;C++;Excel,1,Microsoft,Data Scientist,9.11
+S1479,Civil,9.27,0,2,1,1,5.8,87.6,50.6,81.9,Java;AWS;OS;React;C++;DSA,1,Wipro,Support Engineer,8.52
+S1480,Computer Science,8.31,0,2,1,1,6.5,60.1,73.3,83.0,Machine Learning;Python;Communication,1,Cognizant,Data Analyst,8.0
+S1481,Computer Science,7.18,1,1,1,1,6.2,67.1,64.1,84.5,SQL;DBMS;Problem Solving;Excel;Java,1,Deloitte,Data Analyst,7.4
+S1482,Electronics,6.24,2,2,1,4,6.5,70.0,86.6,74.1,React;OS;Excel;Python;DBMS;SQL;C++,1,Wipro,Software Engineer,8.43
+S1483,Computer Science,5.74,0,2,0,3,7.1,66.3,47.2,67.4,DSA;Problem Solving;DBMS;Excel;Networking,0,,,
+S1484,Electrical,6.66,0,1,2,0,5.0,52.5,65.6,83.0,Networking;Machine Learning;C++;AWS;Excel;DSA;Java;Python,1,Microsoft,Support Engineer,6.55
+S1485,Information Technology,7.36,1,2,3,5,6.9,49.6,64.4,74.0,Communication;Python;DBMS,1,Infosys,QA Engineer,9.74
+S1486,Electrical,6.04,2,1,2,2,4.9,58.5,55.4,81.4,React;OS;DSA;Java;Python;Power BI;SQL;Machine Learning,0,,,
+S1487,Computer Science,6.71,0,1,0,0,7.7,73.8,72.0,79.3,AWS;Java;Machine Learning;DBMS;OS;C++,0,,,
+S1488,Electrical,7.42,1,2,2,0,7.5,75.9,47.5,76.7,Java;C++;Networking;DBMS;SQL,0,,,
+S1489,Electronics,6.92,1,1,4,1,8.3,63.1,56.2,88.0,Communication;SQL;OS;Python;Machine Learning;Power BI,1,Google,QA Engineer,8.1
+S1490,Information Technology,6.2,1,3,1,1,7.4,67.1,100.0,80.5,React;Python;SQL;Excel;C++,1,Infosys,Data Analyst,7.75
+S1491,Electrical,9.6,0,2,3,1,7.7,53.5,39.7,84.5,Power BI;Networking;DBMS;React;DSA,1,Deloitte,Software Engineer,9.52
+S1492,Mechanical,8.53,0,1,2,1,5.4,68.3,52.0,80.4,DBMS;Networking;C++;OS;React;DSA;Excel,1,Cognizant,Data Analyst,8.89
+S1493,Mechanical,8.19,2,2,0,1,7.1,55.5,59.3,86.4,Python;Networking;React;AWS;Power BI;C++;SQL;Java,1,Google,System Engineer,8.15
+S1494,Information Technology,6.5,1,2,1,0,4.7,69.0,57.2,90.0,Power BI;DSA;SQL;Python,0,,,
+S1495,Mechanical,9.49,0,2,2,0,7.0,48.8,56.8,85.2,C++;DBMS;DSA,1,IBM,System Engineer,9.51
+S1496,Civil,8.03,0,0,3,0,6.8,30.1,49.7,84.7,Communication;Excel;Power BI;Java;AWS,1,Microsoft,Cloud Engineer,9.38
+S1497,Civil,6.33,1,0,3,2,5.3,61.1,65.5,98.5,AWS;Machine Learning;Networking;OS;Python,0,,,
+S1498,Electrical,7.91,0,0,2,2,6.4,60.5,69.2,89.0,React;Networking;Power BI;DBMS;Java;Excel;SQL,1,Wipro,Data Analyst,7.98
+S1499,Computer Science,8.04,0,2,1,0,7.4,58.0,33.3,75.5,Power BI;Java;Problem Solving;Machine Learning;Networking;Communication;DBMS,1,Cognizant,Cloud Engineer,7.22
+S1500,Electrical,7.85,0,0,3,2,4.4,55.1,68.3,79.1,React;Problem Solving;OS;Python;SQL;Machine Learning,1,Microsoft,System Engineer,7.81
+S1501,Civil,6.1,0,1,3,0,7.8,58.9,74.1,70.2,C++;Excel;DBMS;Python;Power BI;Communication;DSA,1,TCS,Support Engineer,6.21
+S1502,Electronics,7.91,1,1,3,1,5.3,55.9,76.4,94.6,Python;Communication;Power BI;Machine Learning;Excel,1,Cognizant,Support Engineer,9.17
+S1503,Electrical,6.95,1,3,2,2,4.2,76.5,42.4,84.3,Java;AWS;DSA;SQL;Machine Learning;OS;Communication;C++,1,TechMahindra,Cloud Engineer,8.66
+S1504,Civil,7.18,0,0,3,0,5.6,60.9,82.2,75.6,Java;DSA;OS;AWS;DBMS;Power BI;Networking;Communication,1,TCS,System Engineer,7.62
+S1505,Computer Science,7.14,0,3,1,0,8.7,74.8,61.7,83.4,Excel;Networking;DBMS;SQL;AWS,1,Capgemini,Software Engineer,7.68
+S1506,Information Technology,7.48,0,0,4,1,6.8,37.8,69.7,91.8,Problem Solving;AWS;DSA;Python,1,Accenture,Software Engineer,7.97
+S1507,Mechanical,6.61,0,0,3,2,6.1,59.8,73.9,73.6,Problem Solving;Communication;Excel,1,Accenture,QA Engineer,7.58
+S1508,Electronics,8.2,0,3,0,1,5.5,35.0,60.6,86.9,Networking;DBMS;C++;Java;Power BI;Python,0,,,
+S1509,Information Technology,7.64,1,2,2,1,4.5,51.4,27.5,79.8,OS;React;Problem Solving;SQL;Power BI,1,Capgemini,Data Scientist,7.6
+S1510,Electronics,7.04,0,0,1,0,3.4,45.6,71.6,88.4,AWS;Machine Learning;Excel;Power BI,0,,,
+S1511,Computer Science,6.18,0,0,0,2,5.2,71.5,73.3,100.0,Python;DBMS;Problem Solving;SQL;React,0,,,
+S1512,Information Technology,5.28,2,0,3,0,7.7,48.9,72.4,80.8,C++;DSA;Problem Solving;AWS,0,,,
+S1513,Electronics,8.06,1,0,2,1,6.8,59.7,36.6,99.4,DBMS;Networking;Python;C++;Power BI;OS;SQL;AWS,1,Capgemini,Software Engineer,6.66
+S1514,Information Technology,7.39,0,0,2,0,7.0,68.6,73.2,66.9,React;Power BI;Machine Learning;Excel;C++,1,Cognizant,Cloud Engineer,7.4
+S1515,Mechanical,7.58,2,1,0,1,5.0,61.9,80.1,77.8,OS;Machine Learning;DSA;Problem Solving;AWS,1,IBM,Cloud Engineer,7.46
+S1516,Civil,8.09,0,0,2,2,5.7,50.3,52.9,57.4,Python;Networking;C++,0,,,
+S1517,Electronics,8.0,1,1,2,2,5.7,38.4,47.7,77.1,C++;React;AWS;Machine Learning;Excel;Java;OS,1,Infosys,Data Scientist,7.57
+S1518,Electronics,8.01,0,0,3,2,5.8,50.7,52.5,73.0,Communication;AWS;Machine Learning;Power BI;C++;Excel;DSA;SQL,0,,,
+S1519,Civil,6.09,1,0,1,2,9.3,90.6,40.1,89.8,Problem Solving;Python;Power BI;React,1,Microsoft,Data Scientist,6.42
+S1520,Electrical,7.16,0,3,2,1,5.6,35.5,59.6,84.3,Excel;Python;C++;OS,1,Cognizant,QA Engineer,8.94
+S1521,Mechanical,7.38,0,0,1,1,6.0,62.5,89.5,80.5,DBMS;Excel;Python;React;AWS;DSA,1,Amazon,Business Analyst,7.47
+S1522,Electrical,7.86,0,2,4,1,3.8,67.0,67.7,76.3,C++;Power BI;OS;Problem Solving;Communication;Networking;Machine Learning,1,Wipro,System Engineer,9.35
+S1523,Electronics,8.57,0,0,2,0,5.1,83.1,19.6,94.7,OS;SQL;Excel,0,,,
+S1524,Electronics,6.93,0,0,1,4,5.3,27.0,55.9,80.9,Power BI;Networking;Problem Solving;SQL;C++;Communication;Java;DSA,0,,,
+S1525,Electronics,8.92,1,0,2,0,8.0,71.6,52.5,76.5,Excel;AWS;Machine Learning;DBMS,1,Amazon,Data Scientist,8.91
+S1526,Electronics,6.63,0,2,1,0,5.9,81.8,60.2,80.6,Machine Learning;OS;Java;AWS;Python;React;Power BI,1,Google,Business Analyst,7.1
+S1527,Civil,7.6,1,3,3,1,9.1,49.2,53.6,72.1,AWS;C++;DBMS,1,Deloitte,QA Engineer,9.93
+S1528,Mechanical,6.1,1,0,2,2,9.8,89.6,38.7,93.6,AWS;Problem Solving;SQL,1,Wipro,Business Analyst,5.42
+S1529,Electronics,7.24,1,1,4,1,4.8,68.1,55.3,85.2,React;OS;SQL;Communication;Power BI;Java,0,,,
+S1530,Mechanical,7.07,2,1,3,1,6.2,66.4,38.1,81.9,C++;SQL;Communication;Problem Solving;Python,0,,,
+S1531,Computer Science,6.42,0,0,2,0,4.1,93.5,78.4,95.1,Machine Learning;DSA;Power BI;SQL;React;Excel,1,Google,Data Analyst,6.68
+S1532,Information Technology,6.96,0,1,0,2,8.9,68.4,69.0,79.3,DBMS;C++;Problem Solving;Power BI;Excel;OS;AWS,1,TCS,Software Engineer,6.71
+S1533,Civil,7.67,0,0,4,1,6.4,72.3,54.1,95.0,Excel;Communication;Python;AWS,0,,,
+S1534,Civil,6.74,0,0,2,2,7.7,91.5,78.7,82.7,Python;C++;Problem Solving;AWS,1,TechMahindra,Business Analyst,6.77
+S1535,Information Technology,7.27,0,0,4,0,9.6,58.2,59.1,72.0,Problem Solving;Communication;Machine Learning;SQL;Java;DBMS;Networking;Power BI,1,Wipro,Data Analyst,7.62
+S1536,Computer Science,8.16,0,0,4,0,5.8,78.0,62.7,84.4,Machine Learning;OS;Excel;Networking;React,1,Deloitte,Data Scientist,8.12
+S1537,Mechanical,5.98,0,2,1,2,6.9,84.8,25.3,78.8,SQL;Communication;OS;AWS;DSA;Problem Solving;DBMS;Python,1,Accenture,Business Analyst,6.02
+S1538,Electrical,8.71,0,1,3,0,6.6,81.9,44.2,75.6,DSA;Excel;Python;React,1,Deloitte,System Engineer,8.56
+S1539,Computer Science,8.09,0,0,2,2,4.6,65.1,84.9,78.4,Excel;C++;Power BI;Python;DBMS,1,IBM,QA Engineer,7.54
+S1540,Civil,8.5,0,1,2,1,7.4,58.0,40.5,83.0,Python;React;Problem Solving;C++;Java;Power BI;AWS,1,TechMahindra,Data Analyst,7.84
+S1541,Mechanical,6.99,0,0,4,0,6.0,42.6,82.6,78.0,DBMS;Java;Networking;Machine Learning;OS;SQL,1,Accenture,Software Engineer,7.32
+S1542,Electronics,6.62,0,0,2,5,6.2,53.8,58.1,86.9,C++;Java;Problem Solving;Networking;Machine Learning;React,1,Capgemini,System Engineer,7.12
+S1543,Mechanical,7.23,0,0,2,3,6.9,49.5,75.4,85.2,Networking;Excel;React,1,Infosys,QA Engineer,8.08
+S1544,Computer Science,7.59,1,0,4,1,6.2,90.8,46.2,77.2,OS;DSA;React,1,Accenture,QA Engineer,7.51
+S1545,Civil,5.14,0,0,4,1,8.2,62.1,49.7,79.8,Communication;Excel;DBMS;Machine Learning,0,,,
+S1546,Information Technology,8.46,0,0,2,0,9.5,100.0,65.0,82.9,Networking;OS;DSA,1,TechMahindra,Support Engineer,7.98
+S1547,Electronics,6.95,0,1,1,1,7.1,31.0,56.2,74.8,Python;Problem Solving;C++;Java,1,Infosys,Support Engineer,7.23
+S1548,Information Technology,7.81,0,3,3,0,6.3,65.4,69.3,74.1,Power BI;Networking;Java,1,TechMahindra,Data Analyst,8.77
+S1549,Electronics,6.64,2,0,2,2,9.6,56.4,48.9,75.7,DSA;OS;Machine Learning;Power BI;AWS;Python;Java;SQL,0,,,
+S1550,Computer Science,7.84,0,2,4,1,8.0,45.9,72.2,82.4,Communication;Power BI;C++;Problem Solving;DBMS,1,TechMahindra,Data Analyst,9.59
+S1551,Computer Science,9.05,0,0,2,3,6.8,56.1,37.4,83.3,Python;AWS;SQL,1,IBM,System Engineer,8.92
+S1552,Electronics,7.09,0,1,2,2,10.0,61.5,79.9,93.5,Problem Solving;OS;React;Machine Learning;Java,1,Amazon,Data Scientist,7.61
+S1553,Information Technology,7.53,0,1,2,1,5.1,61.0,60.6,84.1,DBMS;Problem Solving;OS,1,Cognizant,Cloud Engineer,7.55
+S1554,Electrical,7.05,2,0,2,1,7.0,85.4,55.7,81.0,Power BI;DBMS;C++;SQL;Java;Excel,0,,,
+S1555,Electrical,7.58,0,0,3,1,7.7,46.6,49.4,84.9,Python;AWS;SQL;Java;DBMS;React;OS;Networking,1,Wipro,Cloud Engineer,6.74
+S1556,Electronics,5.84,1,1,2,1,6.3,68.6,51.5,86.9,Python;AWS;C++;Excel;SQL;OS;React,0,,,
+S1557,Computer Science,6.42,0,1,2,0,8.3,46.1,37.7,89.7,OS;Python;Java;Machine Learning;C++;Communication,1,TCS,Business Analyst,5.89
+S1558,Electrical,6.76,0,2,1,0,5.9,59.2,48.6,83.7,Networking;Problem Solving;Excel;Power BI;React,1,Infosys,Cloud Engineer,6.24
+S1559,Electrical,8.41,0,1,1,1,3.4,85.9,72.1,70.0,DSA;OS;Communication;C++;Excel;DBMS;SQL;Python,1,TCS,System Engineer,7.83
+S1560,Civil,6.87,0,1,2,2,8.3,59.3,81.4,94.6,AWS;OS;SQL;Java;Problem Solving;Communication,1,Accenture,Data Scientist,8.03
+S1561,Electronics,8.28,0,1,3,0,6.6,80.9,43.9,78.9,Networking;DSA;Problem Solving,1,IBM,Cloud Engineer,6.79
+S1562,Mechanical,7.21,0,1,4,2,4.5,49.4,79.6,83.7,Java;OS;AWS;React,1,Google,Data Analyst,9.27
+S1563,Mechanical,6.31,0,2,1,0,7.7,66.2,28.5,75.1,Communication;Java;OS;Excel;C++;Python,0,,,
+S1564,Computer Science,7.53,1,0,1,1,5.5,66.5,18.3,95.4,DBMS;Python;Networking;Power BI;AWS;Java,0,,,
+S1565,Civil,7.7,0,1,2,1,6.8,41.8,68.9,88.7,C++;Machine Learning;Networking;Power BI;DSA;OS;Communication,1,Amazon,Software Engineer,7.6
+S1566,Information Technology,5.75,0,0,0,2,7.8,57.1,64.6,82.9,Communication;Networking;Power BI;React;Excel;OS,0,,,
+S1567,Electrical,6.9,0,1,1,1,9.7,74.0,74.3,75.8,Communication;Excel;OS;Java;AWS;DSA;Python;Problem Solving,1,Amazon,QA Engineer,7.54
+S1568,Civil,8.18,1,0,3,0,6.8,75.3,21.2,85.6,Communication;Excel;Java;Python;SQL;OS;C++,1,TechMahindra,Cloud Engineer,6.8
+S1569,Computer Science,7.56,0,3,3,1,5.1,94.9,67.1,94.7,React;DSA;AWS;Java;DBMS,1,Accenture,Support Engineer,9.25
+S1570,Information Technology,7.75,1,0,4,0,7.9,79.1,38.0,84.5,Communication;Java;Power BI;DBMS;Python;React;AWS;OS,0,,,
+S1571,Mechanical,6.19,0,1,1,1,5.9,49.6,34.2,77.4,React;Networking;SQL;OS;Python;AWS;C++;DBMS,0,,,
+S1572,Civil,8.33,2,1,4,1,5.6,67.1,95.2,88.3,Problem Solving;Networking;Power BI;SQL;React;Excel,1,TechMahindra,System Engineer,10.13
+S1573,Computer Science,7.52,0,1,1,2,7.4,81.1,32.9,66.3,C++;React;AWS;Communication;Networking;DBMS,1,Microsoft,Business Analyst,6.97
+S1574,Electronics,6.65,0,1,1,1,6.1,77.3,74.7,89.6,Communication;Machine Learning;OS;SQL;Excel;DBMS,1,Capgemini,QA Engineer,7.86
+S1575,Electrical,6.98,0,2,2,1,7.0,85.7,78.4,79.1,AWS;Communication;Excel;Power BI;Networking;DSA;React,1,Accenture,QA Engineer,8.91
+S1576,Electrical,8.2,0,1,2,2,7.0,99.8,70.9,74.7,Problem Solving;C++;SQL;Excel;AWS,1,Wipro,Data Scientist,8.97
+S1577,Electrical,6.55,0,2,0,1,8.3,74.9,62.5,75.3,Power BI;Communication;Networking,1,Google,Cloud Engineer,8.14
+S1578,Electrical,6.15,3,2,2,1,5.5,65.8,51.4,83.8,Problem Solving;AWS;Networking;Machine Learning;DBMS;Python;Power BI;Java,0,,,
+S1579,Computer Science,8.72,0,1,1,1,6.6,76.6,60.6,84.4,SQL;Python;C++;AWS;DSA;Machine Learning,1,Wipro,QA Engineer,8.61
+S1580,Electrical,6.52,1,1,2,0,7.1,54.2,49.4,83.8,SQL;AWS;Python;Excel;Machine Learning,0,,,
+S1581,Information Technology,7.76,0,1,2,0,5.8,52.0,79.1,74.4,Python;Communication;OS;Java;React;Networking;DSA,1,TechMahindra,Cloud Engineer,8.54
+S1582,Information Technology,7.11,0,2,1,2,5.4,53.6,63.8,94.2,Power BI;Problem Solving;AWS;Excel;Machine Learning;Python;DBMS,1,Microsoft,Cloud Engineer,7.71
+S1583,Electrical,6.0,0,0,3,2,8.0,47.4,37.7,82.2,Networking;Python;AWS;Excel;Machine Learning,1,Accenture,Support Engineer,6.07
+S1584,Information Technology,6.86,1,0,4,1,6.7,84.9,99.8,79.1,Excel;Problem Solving;C++;Communication;React;Networking;DSA;Power BI,1,Cognizant,Support Engineer,7.26
+S1585,Information Technology,6.6,0,0,4,1,5.6,69.7,49.8,78.5,Java;SQL;AWS;Excel;Networking;Problem Solving;DBMS;Python,1,Microsoft,QA Engineer,7.27
+S1586,Civil,7.16,0,1,1,3,5.5,45.3,28.1,79.1,SQL;Problem Solving;React;Machine Learning;Python,0,,,
+S1587,Electronics,8.84,2,0,2,0,6.3,45.2,66.1,79.9,Excel;SQL;Python;AWS;Communication;React,0,,,
+S1588,Computer Science,9.31,0,1,4,1,5.5,64.1,46.5,85.3,React;AWS;C++;Machine Learning;OS;Problem Solving;Networking;Communication,1,Infosys,Data Scientist,10.56
+S1589,Civil,6.36,0,0,3,1,6.8,24.3,57.3,70.6,SQL;Networking;Java;AWS,0,,,
+S1590,Information Technology,6.87,0,0,1,0,4.7,80.3,37.3,71.0,Networking;Problem Solving;DBMS;Java;Communication;DSA,0,,,
+S1591,Information Technology,9.36,0,1,2,0,9.4,64.1,48.1,89.9,Communication;Problem Solving;AWS;Machine Learning;DSA;React;Networking;OS,1,Deloitte,Software Engineer,9.16
+S1592,Computer Science,6.85,0,0,2,0,7.6,86.3,60.3,78.3,Communication;OS;DSA;C++;React;Excel;Power BI;Python,0,,,
+S1593,Electrical,5.0,0,1,1,2,8.0,55.5,65.2,79.1,DBMS;Power BI;Java;Problem Solving;Machine Learning,1,Deloitte,QA Engineer,6.33
+S1594,Computer Science,7.28,0,1,0,0,7.9,48.2,91.8,73.5,AWS;Power BI;Communication;Networking;Excel;OS;React,1,TCS,QA Engineer,7.13
+S1595,Electrical,7.75,1,2,2,1,6.8,49.2,27.5,90.7,Communication;Networking;Java;Power BI,1,Wipro,Software Engineer,8.91
+S1596,Electrical,6.09,1,0,2,0,8.8,76.6,57.2,84.5,DSA;C++;AWS,1,Accenture,Cloud Engineer,5.82
+S1597,Computer Science,6.72,0,2,2,2,5.7,59.2,100.0,75.9,Networking;AWS;Excel;Power BI,1,Microsoft,Data Analyst,9.39
+S1598,Electrical,7.13,3,1,1,2,7.0,67.8,76.6,90.2,SQL;Python;OS;Excel;Communication;AWS;Java;Networking,0,,,
+S1599,Computer Science,7.9,0,1,3,2,5.4,71.8,77.8,76.0,Power BI;Machine Learning;Networking;Java,1,Capgemini,Business Analyst,8.62
+S1600,Electronics,6.99,0,1,4,0,6.0,79.4,80.3,66.4,DBMS;OS;C++;Problem Solving;Excel;Communication,1,TCS,Cloud Engineer,8.78
